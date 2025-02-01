@@ -1,0 +1,501 @@
+EmployeeID,Employee_Name,Gender,BusinessTravel,Department,DistanceFromHome KM,State,Ethnicity,Education,EducationField,JobRole,MaritalStatus,StockOptionLevel,OverTime,HireDate,Attrition,YearsAtCompany,YearsInMostRecentRole,YearsSinceLastPromotion,YearsWithCurrManager,Age,Age_Group,Full_State_Name,Salary,Salary_Bin,EducationLevel
+0C54-705D,Grata Yannoni,Female,Some Travel,Sales,37,NY,White,2,Marketing,Manager,Married,0,FALSE,10/12/2021,FALSE,1,0,0,1,50,46-51,New York,291477,150k-300k,High School 
+9112-D01B,Emmie Lauchlan,Female,Some Travel,Sales,23,CA,White,3,Marketing ,Manager,Married,1,TRUE,27/05/2020,FALSE,2,1,2,2,50,46-51,California,266449,150k-300k,Bachelors 
+0BEE-FC20,Sherill Covotti,Female,Some Travel,Sales,43,IL,White,4,Marketing ,Manager,Single,0,FALSE,19/10/2021,FALSE,1,1,1,1,49,46-51,Illinois,413946,300k-500k,Masters 
+4938-402A,Gherardo Stratiff,Male,No Travel ,Sales,6,CA,Black or African American,3,Economics,Manager,Divorced,1,FALSE,5/07/2018,FALSE,4,2,4,2,24,18-24,California,135407,Unknown,Bachelors 
+F58A-302D,Travers Outhwaite,Male,Some Travel,Sales,17,IL,Black or African American,4,Economics,Manager,Divorced,1,FALSE,5/11/2016,FALSE,6,5,5,3,26,25-31,Illinois,290774,150k-300k,Masters 
+8078-6154,Hattie Algeo,Female,Some Travel,Sales,29,NY,White,1,Marketing,Manager,Married,1,FALSE,9/04/2017,FALSE,5,4,4,3,26,25-31,New York,172070,150k-300k,No Formal Qualifications
+B102-5713,Adlai Pettit,Non-Binary,Some Travel,Sales,31,CA,Mixed or multiple ethnic groups,5,Marketing ,Manager,Single,0,FALSE,19/08/2015,FALSE,7,5,5,3,27,25-31,California,205622,150k-300k,Doctorate
+A11D-324A,Yorgo Ferrolli,Male,Some Travel,Sales,44,CA,Black or African American,4,Marketing,Manager,Married,1,FALSE,22/01/2016,FALSE,6,6,6,6,27,25-31,California,152147,150k-300k,Masters 
+9E87-533E,Cindi Dudgeon,Female,Some Travel,Sales,16,CA,White,3,Marketing,Manager,Single,1,FALSE,25/04/2021,FALSE,1,1,1,0,27,25-31,California,225831,150k-300k,Bachelors 
+AF11-04C3,Joni Byre,Female,Some Travel,Sales,19,CA,American Indian or Alaska Native,4,Marketing,Manager,Married,0,FALSE,30/08/2016,FALSE,6,0,1,1,27,25-31,California,149813,Unknown,Masters 
+566A-FC64,Loria Pursey,Female,Some Travel,Sales,4,CA,Asian or Asian American,4,Marketing ,Manager,Divorced,3,FALSE,15/10/2016,FALSE,6,0,5,4,27,25-31,California,255718,150k-300k,Masters 
+5021-95FC,Louie Trowsdall,Male,Some Travel,Sales,44,CA,White,3,Marketing,Manager,Single,0,TRUE,16/07/2013,TRUE,5,4,4,0,29,25-31,California,377203,300k-500k,Bachelors 
+7BA2-EBDE,Borden McGuiness,Male,No Travel ,Sales,6,NY,White,4,Marketing ,Manager,Single,0,TRUE,16/03/2020,FALSE,2,2,2,0,31,25-31,New York,321244,300k-500k,Masters 
+18CE-8F30,Wendy Bootman,Female,Some Travel,Sales,38,CA,Black or African American,5,Marketing,Manager,Married,1,FALSE,28/03/2019,FALSE,3,1,3,3,31,25-31,California,330940,300k-500k,Doctorate
+BAA6-30C4,Tawnya Saywood,Female,Some Travel,Sales,43,CA,White,3,Marketing ,Manager,Single,1,FALSE,30/08/2021,FALSE,1,0,1,0,32,32-38,California,202322,150k-300k,Bachelors 
+3DCC-7FA4,Sherrie Chantler,Female,Frequent Traveller,Sales,30,CA,Mixed or multiple ethnic groups,2,Marketing ,Manager,Married,2,TRUE,12/04/2019,FALSE,3,1,2,2,34,32-38,California,311448,300k-500k,High School 
+EDC5-6FB7,Sibelle Hanse,Female,Some Travel,Sales,36,CA,Black or African American,4,Marketing,Manager,Single,0,FALSE,22/03/2019,FALSE,3,3,3,2,35,32-38,California,396470,300k-500k,Masters 
+0602-02AB,Lynnet Foord,Female,Some Travel,Sales,36,CA,White,2,Marketing,Manager,Married,1,FALSE,12/01/2022,FALSE,0,0,0,0,35,32-38,California,487746,300k-500k,High School 
+5B0B-B105,Richard Titchen,Male,Some Travel,Sales,30,CA,White,2,Marketing ,Manager,Married,1,FALSE,4/07/2020,FALSE,2,2,2,2,35,32-38,California,360384,300k-500k,High School 
+2E9A-BD2E,Blake Metheringham,Male,Some Travel,Sales,13,CA,Asian or Asian American,5,Marketing ,Manager,Married,1,FALSE,27/09/2013,FALSE,9,1,8,0,36,32-38,California,432191,300k-500k,Doctorate
+A7BB-F5A7,Anna-diana Horbart,Female,Some Travel,Sales,17,CA,White,4,Economics,Manager,Single,0,FALSE,8/12/2014,FALSE,8,3,4,8,37,32-38,California,476151,300k-500k,Masters 
+8BAB-B4A6,Torey Abram,Male,Some Travel,Sales,35,NY,Asian or Asian American,3,Marketing ,Manager,Single,0,TRUE,13/01/2012,FALSE,10,7,9,3,38,32-38,New York,340229,300k-500k,Bachelors 
+11AE-3E4D,Sheffie Tonkin,Male,Some Travel,Sales,38,CA,Mixed or multiple ethnic groups,2,Technical Degree,Manager,Married,1,TRUE,19/02/2012,FALSE,10,7,7,10,39,39-45,California,300299,300k-500k,High School 
+BC20-368E,Flem Simenon,Male,Some Travel,Sales,37,NY,White,3,Marketing,Manager,Married,1,TRUE,6/07/2021,FALSE,1,0,0,1,39,39-45,New York,265712,150k-300k,Bachelors 
+CC1D-5D73,Tillie Cregin,Female,No Travel ,Sales,9,CA,White,3,Marketing ,Manager,Single,0,FALSE,25/04/2020,FALSE,2,2,2,1,40,39-45,California,254535,150k-300k,Bachelors 
+7EF0-2BF4,Ulrike Seakes,Female,Some Travel,Sales,5,NY,White,4,Marketing ,Manager,Married,0,FALSE,10/04/2019,FALSE,3,3,3,0,40,39-45,New York,267834,150k-300k,Masters 
+AFDF-3DA8,Mikkel Fosdyke,Male,Some Travel,Sales,35,NY,White,1,Marketing,Manager,Married,1,FALSE,23/05/2021,TRUE,0,0,0,0,41,39-45,New York,314961,300k-500k,No Formal Qualifications
+AB4A-E71A,Theodor Smaleman,Male,Some Travel,Sales,3,IL,White,3,Marketing,Manager,Married,1,TRUE,5/09/2013,FALSE,9,3,3,7,43,39-45,Illinois,429939,300k-500k,Bachelors 
+4294-03D1,Lettie D'Emanuele,Female,Some Travel,Sales,12,CA,White,4,Marketing ,Manager,Married,0,FALSE,30/06/2016,FALSE,6,1,3,1,43,39-45,California,513262,Above 500k,Masters 
+781F-6C21,Eugenio Sempill,Male,Frequent Traveller,Sales,21,NY,White,3,Marketing ,Manager,Divorced,1,TRUE,25/02/2020,FALSE,2,1,1,1,43,39-45,New York,327587,300k-500k,Bachelors 
+AB03-8820,Daryle Boarder,Male,Some Travel,Sales,3,IL,Mixed or multiple ethnic groups,1,Economics,Manager,Married,1,FALSE,28/03/2013,FALSE,9,5,9,2,43,39-45,Illinois,313198,300k-500k,No Formal Qualifications
+2E72-4BF1,Grace Gohier,Male,Some Travel,Sales,21,CA,White,3,Marketing,Manager,Married,0,FALSE,7/02/2012,FALSE,10,4,5,4,44,39-45,California,426142,300k-500k,Bachelors 
+07B2-D67A,Rossie Everleigh,Male,Some Travel,Sales,40,NY,White,2,Economics,Manager,Divorced,1,FALSE,30/01/2012,FALSE,10,6,8,4,44,39-45,New York,285620,150k-300k,High School 
+82B4-8569,Adrian Swatman,Male,Some Travel,Sales,44,CA,Mixed or multiple ethnic groups,3,Marketing,Manager,Divorced,1,FALSE,23/12/2018,FALSE,4,4,4,3,44,39-45,California,313891,300k-500k,Bachelors 
+3D47-6A75,Burch Albers,Male,Some Travel,Sales,20,CA,White,3,Marketing ,Manager,Married,1,FALSE,30/04/2021,FALSE,1,1,1,1,45,39-45,California,374781,300k-500k,Bachelors 
+13E5-8466,Cody Tipple,Female,Some Travel,Sales,14,NY,White,4,Marketing ,Manager,Single,0,FALSE,6/12/2014,FALSE,8,2,5,8,47,46-51,New York,410970,300k-500k,Masters 
+6965-C170,Joya Hefford,Female,Some Travel,Sales,32,NY,White,3,Technical Degree,Manager,Married,1,TRUE,18/04/2013,FALSE,9,1,2,9,48,46-51,New York,354336,300k-500k,Bachelors 
+B140-AF36,Marjy Matveyev,Female,Some Travel,Human Resources,22,CA,White,3,Marketing ,Recruiter,Single,1,FALSE,4/09/2022,FALSE,0,0,0,0,18,18-24,California,31024,Under 50k,Bachelors 
+9C97-B634,Hyacinthie Diperaus,Female,Some Travel,Human Resources,20,NY,White,2,Economics,Recruiter,Single,0,FALSE,24/10/2022,FALSE,0,0,0,0,19,18-24,New York,21026,Under 50k,High School 
+F469-0427,Krissie Albery,Female,Frequent Traveller,Human Resources,31,NY,White,4,Marketing ,Recruiter,Single,1,TRUE,20/02/2022,TRUE,0,0,0,0,19,18-24,New York,36832,Under 50k,Masters 
+B0C8-E3DF,Eleanor Escalero,Female,Frequent Traveller,Human Resources,24,IL,White,3,Economics,Recruiter,Married,1,FALSE,6/05/2021,FALSE,1,0,0,0,19,18-24,Illinois,25838,Under 50k,Bachelors 
+14CF-051D,Prent Salkeld,Male,Some Travel,Human Resources,18,NY,White,4,Economics,Recruiter,Single,0,FALSE,24/05/2022,FALSE,0,0,0,0,19,18-24,New York,20778,Under 50k,Masters 
+AFA8-5058,Dame Andrzejewski,Male,Some Travel,Human Resources,8,CA,White,4,Human Resources,Recruiter,Divorced,0,TRUE,6/03/2020,TRUE,2,0,0,0,20,18-24,California,26186,Under 50k,Masters 
+D676-2084,Shannon Kuhnel,Male,Some Travel,Human Resources,41,NY,White,2,Economics,Recruiter,Single,0,FALSE,20/06/2020,FALSE,2,0,1,0,21,18-24,New York,20583,Under 50k,High School 
+CA1B-0302,Hestia Pickin,Female,Some Travel,Human Resources,11,NY,White,3,Marketing ,Recruiter,Married,0,FALSE,10/12/2020,FALSE,2,2,2,1,22,18-24,New York,26880,Under 50k,Bachelors 
+B76C-D9CE,Mada Moss,Female,Some Travel,Human Resources,7,NY,White,2,Economics,Recruiter,Married,0,TRUE,31/01/2021,TRUE,1,0,0,0,22,18-24,New York,29322,Under 50k,High School 
+FFCF-0BD5,Sky Mattioni,Prefer Not To Say,Some Travel,Human Resources,42,CA,Black or African American,1,Marketing ,Recruiter,Married,1,FALSE,25/06/2017,FALSE,5,5,5,5,23,18-24,California,30683,Under 50k,No Formal Qualifications
+DD1E-583D,Ashton Lauga,Male,Some Travel,Human Resources,36,IL,Mixed or multiple ethnic groups,3,Human Resources,Recruiter,Married,0,FALSE,2/03/2017,FALSE,5,5,5,0,24,18-24,Illinois,29428,Under 50k,Bachelors 
+F5E3-48BB,Zenia Rattery,Female,Frequent Traveller,Human Resources,3,CA,American Indian or Alaska Native,3,Human Resources,Recruiter,Married,0,FALSE,13/01/2015,TRUE,3,0,2,1,25,25-31,California,23547,Under 50k,Bachelors 
+4D59-B831,Nell Teague,Female,Some Travel,Human Resources,14,CA,Other ,1,Human Resources,Recruiter,Married,1,FALSE,25/06/2018,TRUE,2,0,1,1,25,25-31,California,22150,Under 50k,No Formal Qualifications
+B6EC-313E,Corbin Gooddy,Male,Frequent Traveller,Human Resources,17,CA,Mixed or multiple ethnic groups,3,Human Resources,Recruiter,Divorced,1,FALSE,9/08/2014,TRUE,0,0,0,0,26,25-31,California,30502,Under 50k,Bachelors 
+388D-DB68,Maybelle Hurler,Female,Some Travel,Human Resources,40,CA,White,3,Human Resources,Recruiter,Married,1,FALSE,7/06/2015,FALSE,7,5,6,5,27,25-31,California,34320,Under 50k,Bachelors 
+42CC-040A,Stace Savege,Female,Some Travel,Human Resources,29,CA,White,2,Technical Degree,Recruiter,Single,0,FALSE,5/01/2012,TRUE,6,1,1,6,29,25-31,California,49606,Under 50k,High School 
+8D34-EBDF,Giles Bilham,Male,Some Travel,Human Resources,14,IL,Native Hawaiian ,4,Technical Degree,Recruiter,Married,0,FALSE,31/07/2014,TRUE,0,0,0,0,29,25-31,Illinois,46703,Under 50k,Masters 
+BFF3-AADC,Collen Sedman,Female,No Travel ,Human Resources,25,NY,American Indian or Alaska Native,2,Marketing ,Recruiter,Divorced,1,FALSE,25/01/2012,FALSE,10,0,2,0,31,25-31,New York,55682,Unknown,High School 
+C395-8C36,Curcio Franek,Male,Some Travel,Human Resources,3,CA,Mixed or multiple ethnic groups,1,Technical Degree,Recruiter,Divorced,1,TRUE,19/01/2012,FALSE,10,2,3,7,33,32-38,California,53616,Unknown,No Formal Qualifications
+8233-2483,Sheba McCromley,Female,Some Travel,Human Resources,7,CA,Mixed or multiple ethnic groups,3,Marketing ,Recruiter,Divorced,3,TRUE,12/03/2012,FALSE,10,5,6,3,35,32-38,California,47995,Under 50k,Bachelors 
+D584-4E31,Patrica Lamyman,Female,Some Travel,Human Resources,22,CA,Mixed or multiple ethnic groups,1,Economics,Recruiter,Married,0,FALSE,22/02/2012,FALSE,10,8,8,2,35,32-38,California,67264,Unknown,No Formal Qualifications
+D6A7-EF72,Kalie Swancott,Female,Some Travel,Human Resources,7,CA,White,4,Technical Degree,Recruiter,Single,0,FALSE,4/12/2013,FALSE,9,0,9,7,40,39-45,California,70703,Unknown,Masters 
+B3AF-7E58,Elvira Ianelli,Female,Some Travel,Human Resources,34,NY,Black or African American,2,Human Resources,Recruiter,Divorced,1,TRUE,20/01/2012,FALSE,10,10,10,10,45,39-45,New York,54132,Unknown,High School 
+8EE9-E86D,Conn Mouser,Male,Some Travel,Human Resources,45,IL,White,3,Human Resources,Recruiter,Divorced,3,TRUE,20/05/2012,TRUE,10,8,9,6,46,46-51,Illinois,48740,Under 50k,Bachelors 
+3DBF-E552,Stavro Aird,Male,No Travel ,Human Resources,22,NY,White,4,Human Resources,HR Manager,Married,1,FALSE,12/10/2021,FALSE,1,1,1,0,49,46-51,New York,509261,Above 500k,Masters 
+6227-9D9E,Malina Chivrall,Female,Some Travel,Human Resources,5,CA,Mixed or multiple ethnic groups,4,Human Resources,HR Manager,Married,1,TRUE,25/01/2015,FALSE,7,7,7,1,26,25-31,California,315071,300k-500k,Masters 
+5639-70C0,Trudi Evens,Female,Some Travel,Human Resources,31,IL,Black or African American,4,Human Resources,HR Manager,Divorced,3,FALSE,15/01/2018,FALSE,4,4,4,2,36,32-38,Illinois,509940,Above 500k,Masters 
+9DFE-1FD5,Angel Hazeup,Male,Some Travel,Human Resources,4,IL,Black or African American,3,Human Resources,HR Manager,Married,1,FALSE,1/03/2012,FALSE,10,0,10,7,42,39-45,Illinois,463051,300k-500k,Bachelors 
+81C2-E188,Nada Finlator,Female,Some Travel,Human Resources,1,CA,White,3,Human Resources,HR Executive,Single,1,FALSE,9/03/2021,FALSE,1,1,1,0,19,18-24,California,41958,Under 50k,Bachelors 
+5F99-4E0B,Marcos Bowcher,Non-Binary,Some Travel,Human Resources,33,NY,White,2,Economics,HR Executive,Divorced,1,TRUE,7/11/2021,FALSE,1,0,0,1,21,18-24,New York,70809,Unknown,High School 
+0CFA-28A3,Duff Rioch,Male,Frequent Traveller,Human Resources,42,CA,Black or African American,4,Other,HR Executive,Married,1,TRUE,13/08/2019,FALSE,3,2,2,2,21,18-24,California,42303,Under 50k,Masters 
+55A7-8D82,Allyn Glyde,Non-Binary,Frequent Traveller,Human Resources,34,NY,White,4,Human Resources,HR Executive,Married,0,FALSE,26/09/2020,FALSE,2,0,0,2,23,18-24,New York,75948,Unknown,Masters 
+F8D4-3CAB,Lynda Robken,Non-Binary,Some Travel,Human Resources,45,CA,White,3,Marketing ,HR Executive,Married,2,FALSE,25/05/2018,FALSE,4,3,4,2,23,18-24,California,99052,Unknown,Bachelors 
+1D32-9620,Eldredge Probyn,Male,Some Travel,Human Resources,39,CA,Other ,2,Human Resources,HR Executive,Married,1,FALSE,29/10/2017,FALSE,5,3,3,1,23,18-24,California,55805,Unknown,High School 
+7749-B277,Caryl Roycroft,Male,Some Travel,Human Resources,1,IL,Mixed or multiple ethnic groups,5,Human Resources,HR Executive,Married,0,FALSE,25/04/2017,TRUE,4,3,3,2,24,18-24,Illinois,44634,Under 50k,Doctorate
+BEBB-3E92,Flinn Redferne,Male,Frequent Traveller,Human Resources,17,CA,White,5,Human Resources,HR Executive,Single,0,TRUE,4/01/2022,FALSE,0,0,0,0,24,18-24,California,93008,Unknown,Doctorate
+B375-26A9,Teressa Attewell,Female,No Travel ,Human Resources,5,NY,Asian or Asian American,3,Human Resources,HR Executive,Divorced,3,FALSE,3/09/2018,FALSE,4,2,4,0,24,18-24,New York,41745,Under 50k,Bachelors 
+74F3-DF3D,Lian Ouslem,Female,Some Travel,Human Resources,22,NY,Black or African American,2,Economics,HR Executive,Divorced,1,FALSE,30/05/2015,FALSE,7,2,6,2,25,25-31,New York,49131,Under 50k,High School 
+DD04-BDF8,Kile Notton,Male,Some Travel,Human Resources,44,CA,Black or African American,4,Economics,HR Executive,Married,1,FALSE,23/04/2017,FALSE,5,5,5,0,25,25-31,California,132102,Unknown,Masters 
+F1B6-31B7,Idette Connett,Female,Some Travel,Human Resources,31,CA,Mixed or multiple ethnic groups,3,Marketing ,HR Executive,Married,2,FALSE,28/04/2018,FALSE,4,2,4,4,25,25-31,California,48797,Under 50k,Bachelors 
+89A6-7EF1,Johan Rudinger,Male,Some Travel,Human Resources,11,NY,Asian or Asian American,3,Other,HR Executive,Single,0,FALSE,11/07/2016,FALSE,6,5,6,2,26,25-31,New York,70395,Unknown,Bachelors 
+2EB9-9D31,Cybill Mitkin,Female,No Travel ,Human Resources,4,CA,White,3,Human Resources,HR Executive,Married,1,FALSE,10/07/2021,FALSE,1,1,1,1,27,25-31,California,78265,Unknown,Bachelors 
+6413-42F1,Gui Olivello,Female,Some Travel,Human Resources,24,CA,Mixed or multiple ethnic groups,2,Other,HR Executive,Divorced,0,FALSE,13/07/2016,FALSE,6,1,3,4,27,25-31,California,55206,Unknown,High School 
+4DA0-81D7,Cole Vost,Male,Some Travel,Human Resources,34,CA,Asian or Asian American,2,Marketing ,HR Executive,Single,0,FALSE,11/05/2013,FALSE,9,3,3,1,28,25-31,California,94534,Unknown,High School 
+5A29-B9F4,Nicoli Shavel,Female,Some Travel,Human Resources,14,CA,White,4,Marketing ,HR Executive,Single,0,FALSE,2/01/2020,FALSE,2,0,1,1,28,25-31,California,149734,Unknown,Masters 
+EC4D-D0F3,Camilla Caistor,Female,Some Travel,Human Resources,31,NY,White,3,Human Resources,HR Executive,Married,1,FALSE,12/11/2020,FALSE,2,1,2,0,28,25-31,New York,96807,Unknown,Bachelors 
+4A0E-3728,Nancy Summerton,Female,No Travel ,Human Resources,4,IL,White,5,Economics,HR Executive,Married,1,FALSE,15/02/2019,FALSE,3,1,3,2,28,25-31,Illinois,152909,150k-300k,Doctorate
+9169-FC4B,Reinaldos Baynes,Male,Some Travel,Human Resources,18,CA,Native Hawaiian ,2,Economics,HR Executive,Married,1,FALSE,9/05/2012,TRUE,1,0,0,1,28,25-31,California,179561,150k-300k,High School 
+F45B-1442,Eddy Dallaway,Male,Some Travel,Human Resources,41,NY,White,3,Human Resources,HR Executive,Married,0,TRUE,16/07/2022,FALSE,0,0,0,0,29,25-31,New York,142773,Unknown,Bachelors 
+E8F5-C47D,Jayne Mickleburgh,Female,Some Travel,Human Resources,19,NY,Mixed or multiple ethnic groups,3,Human Resources,HR Executive,Married,1,FALSE,25/03/2012,FALSE,10,5,6,9,30,25-31,New York,97153,Unknown,Bachelors 
+1D35-190A,Carena Devita,Female,Some Travel,Human Resources,18,CA,Asian or Asian American,4,Marketing ,HR Executive,Single,0,TRUE,22/09/2013,FALSE,9,1,6,9,35,32-38,California,132563,Unknown,Masters 
+63BF-A86A,Ava Galland,Female,Frequent Traveller,Human Resources,16,CA,White,3,Human Resources,HR Executive,Single,3,TRUE,12/10/2022,TRUE,0,0,0,0,39,39-45,California,201564,150k-300k,Bachelors 
+205B-4D34,Cris Jeram,Male,Frequent Traveller,Human Resources,39,CA,Mixed or multiple ethnic groups,1,Human Resources,HR Executive,Single,0,FALSE,29/06/2014,FALSE,8,5,5,8,41,39-45,California,79990,Unknown,No Formal Qualifications
+BAF9-933D,Pauly Gero,Male,Some Travel,Human Resources,36,CA,White,3,Human Resources,HR Executive,Married,0,FALSE,23/12/2014,FALSE,8,4,4,7,41,39-45,California,131047,Unknown,Bachelors 
+79F3-8AA5,Lacy Domerc,Female,Some Travel,Human Resources,21,NY,Mixed or multiple ethnic groups,3,Marketing ,HR Executive,Single,0,FALSE,14/02/2012,FALSE,10,5,10,4,47,46-51,New York,98608,Unknown,Bachelors 
+59DB-8465,Nancey Luetkemeyers,Female,Frequent Traveller,Human Resources,3,CA,White,3,Marketing ,HR Executive,Married,2,FALSE,2/03/2013,FALSE,9,0,9,8,47,46-51,California,85744,Unknown,Bachelors 
+CE3C-15A7,Flori Ballham,Female,Some Travel,Technology,15,NY,White,4,Information Systems,Data Scientist,Single,1,FALSE,14/10/2022,FALSE,0,0,0,0,18,18-24,New York,58262,Unknown,Masters 
+E681-7B57,Durant Ratley,Male,Frequent Traveller,Technology,26,CA,White,2,Information Systems,Data Scientist,Single,0,FALSE,22/05/2022,TRUE,0,0,0,0,18,18-24,California,31532,Under 50k,High School 
+64C2-2806,Gareth Oleksiak,Male,Some Travel,Technology,35,CA,White,5,Other,Data Scientist,Single,0,FALSE,20/03/2022,FALSE,0,0,0,0,18,18-24,California,36353,Under 50k,Doctorate
+FF42-EA28,Madella Worham,Female,Some Travel,Technology,14,IL,Black or African American,1,Computer Science,Data Scientist,Single,1,FALSE,13/11/2022,FALSE,0,0,0,0,18,18-24,Illinois,28246,Under 50k,No Formal Qualifications
+5021-423E,Standford Dodshun,Male,Frequent Traveller,Technology,25,NY,White,4,Information Systems,Data Scientist,Single,0,FALSE,28/09/2022,FALSE,0,0,0,0,18,18-24,New York,72639,Unknown,Masters 
+7985-EB3D,Mathew O'Dougherty,Male,Some Travel,Technology,2,IL,White,2,Information Systems,Data Scientist,Single,1,FALSE,9/12/2021,FALSE,1,1,1,0,19,18-24,Illinois,52260,Unknown,High School 
+85B2-41F5,Tessa De Cristoforo,Prefer Not To Say,Some Travel,Technology,35,NY,Black or African American,3,Information Systems,Data Scientist,Single,1,FALSE,15/12/2022,FALSE,0,0,0,0,19,18-24,New York,39722,Under 50k,Bachelors 
+ECD4-3FF7,Kenyon Fawltey,Male,Some Travel,Technology,15,CA,White,3,Computer Science,Data Scientist,Single,1,TRUE,31/05/2022,FALSE,0,0,0,0,19,18-24,California,58408,Unknown,Bachelors 
+DB6C-3B2F,Yelena Paskerful,Female,Some Travel,Technology,43,CA,White,3,Information Systems,Data Scientist,Single,1,FALSE,18/07/2022,TRUE,0,0,0,0,19,18-24,California,49006,Under 50k,Bachelors 
+6A3B-A838,Moss Standeven,Non-Binary,Some Travel,Technology,16,CA,White,4,Information Systems,Data Scientist,Single,1,FALSE,20/08/2021,FALSE,1,1,1,0,19,18-24,California,41092,Under 50k,Masters 
+1053-41B1,Andy Lingwood,Female,Some Travel,Technology,24,CA,White,2,Computer Science,Data Scientist,Single,1,FALSE,16/06/2021,FALSE,1,1,1,0,19,18-24,California,31014,Under 50k,High School 
+D92F-63AD,Gabey Whitloe,Female,Frequent Traveller,Technology,45,CA,White,3,Computer Science,Data Scientist,Single,0,FALSE,22/04/2021,FALSE,1,1,1,1,19,18-24,California,32322,Under 50k,Bachelors 
+3BAB-C57E,Hashim Payn,Male,Some Travel,Technology,28,CA,White,3,Information Systems,Data Scientist,Single,3,TRUE,30/06/2021,FALSE,1,1,1,1,19,18-24,California,26062,Under 50k,Bachelors 
+CB16-C876,April Beckwith,Female,Some Travel,Technology,2,CA,Black or African American,3,Computer Science,Data Scientist,Single,0,FALSE,11/12/2022,FALSE,0,0,0,0,19,18-24,California,26973,Under 50k,Bachelors 
+619D-D78F,Leesa Gauford,Female,Some Travel,Technology,24,NY,White,2,Business Studies,Data Scientist,Single,0,FALSE,29/08/2020,FALSE,2,2,2,1,20,18-24,New York,38138,Under 50k,High School 
+EC6A-DD76,Meade Malthouse,Female,Frequent Traveller,Technology,31,NY,White,3,Information Systems,Data Scientist,Single,0,FALSE,13/09/2021,TRUE,0,0,0,0,20,18-24,New York,37361,Under 50k,Bachelors 
+812D-7475,Lucius Plimmer,Male,Some Travel,Technology,29,CA,White,1,Computer Science,Data Scientist,Married,1,FALSE,8/03/2022,FALSE,0,0,0,0,20,18-24,California,20526,Under 50k,No Formal Qualifications
+72D8-2284,Othelia Tumber,Female,Some Travel,Technology,41,IL,White,3,Computer Science,Data Scientist,Divorced,1,FALSE,11/10/2020,FALSE,2,1,1,1,20,18-24,Illinois,40701,Under 50k,Bachelors 
+7B84-8387,Richardo Lowres,Male,Some Travel,Technology,4,CA,White,4,Information Systems,Data Scientist,Single,0,FALSE,24/06/2022,FALSE,0,0,0,0,20,18-24,California,34954,Under 50k,Masters 
+84D4-D4C3,Naoma Hebbard,Female,No Travel ,Technology,28,CA,Black or African American,2,Computer Science,Data Scientist,Married,0,FALSE,31/12/2022,FALSE,0,0,0,0,20,18-24,California,38258,Under 50k,High School 
+4795-4D3F,Tammy Flaws,Male,Some Travel,Technology,18,CA,White,4,Computer Science,Data Scientist,Married,1,TRUE,27/04/2022,FALSE,0,0,0,0,20,18-24,California,28544,Under 50k,Masters 
+E8D3-CABA,Georg Nunnery,Male,Some Travel,Technology,37,CA,White,4,Computer Science,Data Scientist,Married,2,FALSE,27/02/2020,FALSE,2,2,2,1,20,18-24,California,35654,Under 50k,Masters 
+217C-7180,Hale Patty,Male,Some Travel,Technology,27,IL,White,1,Business Studies,Data Scientist,Single,0,FALSE,15/05/2021,FALSE,1,1,1,1,20,18-24,Illinois,27141,Under 50k,No Formal Qualifications
+0B49-32CD,Nettle Manwaring,Female,Some Travel,Technology,30,CA,White,2,Information Systems,Data Scientist,Divorced,1,FALSE,4/11/2020,FALSE,2,0,0,0,20,18-24,California,41179,Under 50k,High School 
+611A-F218,Kenna Dougary,Female,Some Travel,Technology,32,IL,White,2,Information Systems,Data Scientist,Divorced,1,FALSE,19/10/2022,FALSE,0,0,0,0,20,18-24,Illinois,24504,Under 50k,High School 
+4049-CF88,Jose Davydzenko,Male,Some Travel,Technology,25,NY,White,4,Information Systems,Data Scientist,Married,1,TRUE,18/04/2020,FALSE,2,1,1,2,20,18-24,New York,40341,Under 50k,Masters 
+054A-0B94,Temp Weyland,Male,No Travel ,Technology,11,IL,White,3,Computer Science,Data Scientist,Married,2,FALSE,14/11/2021,FALSE,1,1,1,0,20,18-24,Illinois,26702,Under 50k,Bachelors 
+380E-44B4,Esdras Hallitt,Male,Some Travel,Technology,19,IL,White,4,Computer Science,Data Scientist,Single,0,FALSE,1/08/2022,TRUE,0,0,0,0,21,18-24,Illinois,25255,Under 50k,Masters 
+6DEB-F440,Viviene Vanezis,Non-Binary,Some Travel,Technology,41,CA,Black or African American,3,Computer Science,Data Scientist,Single,0,TRUE,22/06/2019,TRUE,3,0,0,2,21,18-24,California,29793,Under 50k,Bachelors 
+7CFC-C4DA,Brant Damper,Male,Some Travel,Technology,44,CA,White,2,Other,Data Scientist,Single,0,TRUE,20/04/2022,TRUE,0,0,0,0,21,18-24,California,32676,Under 50k,High School 
+C4F7-E118,Brit Seine,Female,Frequent Traveller,Technology,27,NY,White,3,Information Systems,Data Scientist,Divorced,2,FALSE,24/08/2022,FALSE,0,0,0,0,21,18-24,New York,72355,Unknown,Bachelors 
+91C6-564B,Thain Pedri,Male,Some Travel,Technology,7,CA,White,3,Computer Science,Data Scientist,Married,1,FALSE,9/10/2019,FALSE,3,3,3,1,21,18-24,California,40561,Under 50k,Bachelors 
+60E6-B1D9,Merill Agg,Male,Some Travel,Technology,7,CA,Black or African American,3,Information Systems,Data Scientist,Married,0,FALSE,30/12/2022,FALSE,0,0,0,0,21,18-24,California,46521,Under 50k,Bachelors 
+08E4-D3D5,Olvan Coatham,Male,Some Travel,Technology,25,NY,White,4,Computer Science,Data Scientist,Single,0,FALSE,11/12/2019,TRUE,1,1,1,1,21,18-24,New York,34634,Under 50k,Masters 
+B6B9-E5BE,Land Brigge,Male,No Travel ,Technology,20,CA,White,3,Information Systems,Data Scientist,Single,0,FALSE,27/02/2022,FALSE,0,0,0,0,21,18-24,California,21454,Under 50k,Bachelors 
+91C3-F892,Daryl Whittlesea,Male,Some Travel,Technology,24,CA,White,2,Information Systems,Data Scientist,Married,2,FALSE,24/02/2022,FALSE,0,0,0,0,21,18-24,California,34024,Under 50k,High School 
+A89C-9A1E,Seline Hanlin,Female,Some Travel,Technology,30,CA,White,3,Business Studies,Data Scientist,Divorced,1,FALSE,12/12/2020,FALSE,2,2,2,1,21,18-24,California,56422,Unknown,Bachelors 
+531D-788E,Durand Boord,Male,Frequent Traveller,Technology,16,CA,White,2,Computer Science,Data Scientist,Single,0,FALSE,13/04/2022,TRUE,0,0,0,0,21,18-24,California,42569,Under 50k,High School 
+C95B-FE97,Ira Rivelon,Male,Some Travel,Technology,40,CA,White,3,Business Studies,Data Scientist,Married,1,FALSE,27/06/2019,FALSE,3,3,3,3,21,18-24,California,58274,Unknown,Bachelors 
+3412-9077,Grenville Freckleton,Male,Some Travel,Technology,43,NY,White,4,Computer Science,Data Scientist,Married,1,FALSE,21/07/2021,FALSE,1,0,0,0,21,18-24,New York,38749,Under 50k,Masters 
+EFA2-B2D0,Liz Durnford,Female,Some Travel,Technology,2,CA,White,2,Other,Data Scientist,Single,0,FALSE,25/08/2019,FALSE,3,0,1,1,21,18-24,California,31254,Under 50k,High School 
+2637-BDCD,Davin Nutley,Male,Some Travel,Technology,35,IL,Black or African American,3,Computer Science,Data Scientist,Divorced,1,FALSE,15/06/2019,FALSE,3,1,3,0,21,18-24,Illinois,51682,Unknown,Bachelors 
+4236-4F51,Nico Playden,Male,No Travel ,Technology,42,CA,White,3,Computer Science,Data Scientist,Married,3,FALSE,5/03/2019,FALSE,3,1,3,0,21,18-24,California,57118,Unknown,Bachelors 
+1268-3038,Christen Hawtry,Female,Some Travel,Technology,22,CA,White,3,Information Systems,Data Scientist,Single,0,FALSE,24/08/2022,FALSE,0,0,0,0,21,18-24,California,32456,Under 50k,Bachelors 
+5DBA-93C9,Allys Bourdice,Prefer Not To Say,Some Travel,Technology,26,CA,White,4,Computer Science,Data Scientist,Married,1,FALSE,11/05/2022,FALSE,0,0,0,0,21,18-24,California,21202,Under 50k,Masters 
+EAB1-2EB2,Giacinta Keasey,Female,Some Travel,Technology,8,CA,American Indian or Alaska Native,3,Business Studies,Data Scientist,Single,0,FALSE,24/05/2019,TRUE,0,0,0,0,21,18-24,California,36534,Under 50k,Bachelors 
+D6BA-10A1,Leandra Keepin,Non-Binary,Some Travel,Technology,37,CA,White,3,Information Systems,Data Scientist,Single,0,FALSE,10/06/2021,FALSE,1,0,1,1,21,18-24,California,43030,Under 50k,Bachelors 
+FA48-B743,Jorie Ockland,Non-Binary,Frequent Traveller,Technology,29,IL,Asian or Asian American,3,Computer Science,Data Scientist,Divorced,1,FALSE,3/01/2019,FALSE,3,3,3,0,21,18-24,Illinois,64887,Unknown,Bachelors 
+A53B-DF3C,Sadye Wiggin,Female,Some Travel,Technology,2,NY,White,4,Computer Science,Data Scientist,Married,1,TRUE,8/01/2018,FALSE,4,1,2,2,22,18-24,New York,39732,Under 50k,Masters 
+AD1C-2AC5,Phylys Twede,Female,No Travel ,Technology,6,CA,White,2,Information Systems,Data Scientist,Divorced,3,FALSE,11/09/2018,FALSE,4,4,4,4,22,18-24,California,38169,Under 50k,High School 
+37EE-004B,Dyan Boud,Female,Some Travel,Technology,29,CA,White,3,Information Systems,Data Scientist,Divorced,1,FALSE,9/01/2019,TRUE,3,1,1,2,22,18-24,California,28790,Under 50k,Bachelors 
+E927-46D7,Shandeigh Lindores,Female,Some Travel,Technology,14,CA,White,2,Computer Science,Data Scientist,Married,1,FALSE,9/09/2019,FALSE,3,2,2,3,22,18-24,California,28989,Under 50k,High School 
+7AA0-5766,Devin Bernhardsson,Female,Frequent Traveller,Technology,28,CA,White,4,Computer Science,Data Scientist,Married,1,FALSE,28/12/2021,TRUE,0,0,0,0,22,18-24,California,63571,Unknown,Masters 
+1368-8327,Nataniel Garrattley,Non-Binary,Some Travel,Technology,16,NY,White,1,Computer Science,Data Scientist,Married,2,TRUE,25/01/2021,FALSE,1,0,1,0,22,18-24,New York,78467,Unknown,No Formal Qualifications
+4188-C61D,Fanny Yoell,Female,No Travel ,Technology,27,CA,White,1,Information Systems,Data Scientist,Single,0,FALSE,8/03/2018,TRUE,0,0,0,0,22,18-24,California,23039,Under 50k,No Formal Qualifications
+1147-7E2F,Timotheus Antowski,Male,Some Travel,Technology,23,CA,Mixed or multiple ethnic groups,3,Computer Science,Data Scientist,Single,0,FALSE,15/07/2018,TRUE,3,0,1,2,22,18-24,California,37021,Under 50k,Bachelors 
+D8B3-30D2,Madeleine Hazelby,Female,Some Travel,Technology,40,CA,White,1,Business Studies,Data Scientist,Married,1,TRUE,24/12/2019,TRUE,2,0,1,0,22,18-24,California,53080,Unknown,No Formal Qualifications
+DDAC-D5FD,Ricoriki Swiers,Male,Frequent Traveller,Technology,4,CA,White,3,Information Systems,Data Scientist,Married,1,FALSE,18/06/2021,TRUE,0,0,0,0,22,18-24,California,21854,Under 50k,Bachelors 
+DCA7-D382,Tynan Penhall,Male,Some Travel,Technology,8,NY,White,1,Information Systems,Data Scientist,Divorced,3,FALSE,6/08/2018,FALSE,4,4,4,2,22,18-24,New York,54371,Unknown,No Formal Qualifications
+24FA-A637,Giordano Baum,Non-Binary,Some Travel,Technology,10,NY,Asian or Asian American,4,Computer Science,Data Scientist,Married,1,FALSE,1/08/2019,FALSE,3,1,1,1,22,18-24,New York,28953,Under 50k,Masters 
+BAE6-B5DE,Pammi Biernat,Female,Some Travel,Technology,21,NY,White,3,Other,Data Scientist,Single,0,FALSE,8/11/2020,FALSE,2,1,2,2,22,18-24,New York,33354,Under 50k,Bachelors 
+6C42-A719,Bird Libbey,Female,Some Travel,Technology,37,NY,White,3,Computer Science,Data Scientist,Single,0,TRUE,11/03/2020,TRUE,0,0,0,0,22,18-24,New York,30442,Under 50k,Bachelors 
+D6F0-006B,Mathilde Spieck,Female,Some Travel,Technology,38,IL,White,4,Computer Science,Data Scientist,Married,1,TRUE,19/07/2021,FALSE,1,0,0,0,22,18-24,Illinois,31161,Under 50k,Masters 
+817D-28CE,Bert Otton,Female,Frequent Traveller,Technology,30,NY,White,3,Computer Science,Data Scientist,Divorced,1,TRUE,29/07/2020,TRUE,0,0,0,0,22,18-24,New York,40614,Under 50k,Bachelors 
+FB6A-3F11,Ophelia Cosby,Female,Frequent Traveller,Technology,21,CA,Mixed or multiple ethnic groups,1,Information Systems,Data Scientist,Married,0,FALSE,29/04/2018,FALSE,4,2,4,3,22,18-24,California,34193,Under 50k,No Formal Qualifications
+2DD1-FD7F,Godart Burgwin,Male,Some Travel,Technology,3,CA,Other ,3,Computer Science,Data Scientist,Single,0,TRUE,18/07/2018,TRUE,1,0,0,0,22,18-24,California,34753,Under 50k,Bachelors 
+DB54-E47D,Violet Pearsall,Female,Frequent Traveller,Technology,29,CA,Mixed or multiple ethnic groups,2,Computer Science,Data Scientist,Single,0,FALSE,8/12/2018,FALSE,4,2,3,1,22,18-24,California,45850,Under 50k,High School 
+FE0F-498F,Jerrie Juares,Female,Some Travel,Technology,36,CA,White,3,Other,Data Scientist,Divorced,2,FALSE,23/05/2018,FALSE,4,2,4,1,22,18-24,California,57686,Unknown,Bachelors 
+8EF9-CECD,Mendy Hounsom,Male,Some Travel,Technology,35,IL,White,3,Computer Science,Data Scientist,Single,0,FALSE,28/08/2019,FALSE,3,3,3,1,23,18-24,Illinois,28704,Under 50k,Bachelors 
+D962-9E69,Esteban Guiraud,Male,Some Travel,Technology,33,CA,White,1,Computer Science,Data Scientist,Divorced,1,FALSE,27/04/2020,FALSE,2,0,1,2,23,18-24,California,29490,Under 50k,No Formal Qualifications
+097B-A688,Hillard Hulson,Male,Some Travel,Technology,33,NY,Native Hawaiian ,2,Information Systems,Data Scientist,Married,1,TRUE,4/04/2017,FALSE,5,4,4,0,23,18-24,New York,26198,Under 50k,High School 
+DE7D-7757,Linea Clifft,Female,Some Travel,Technology,25,CA,Asian or Asian American,2,Other,Data Scientist,Divorced,1,FALSE,13/08/2019,FALSE,3,1,3,2,23,18-24,California,25425,Under 50k,High School 
+AE51-5502,Randy Luxford,Male,Some Travel,Technology,19,NY,American Indian or Alaska Native,4,Business Studies,Data Scientist,Married,1,FALSE,8/02/2017,FALSE,5,4,4,3,23,18-24,New York,25986,Under 50k,Masters 
+3E3B-681D,Franz Brighouse,Male,Some Travel,Technology,30,CA,White,2,Information Systems,Data Scientist,Single,0,FALSE,25/04/2019,FALSE,3,2,2,3,23,18-24,California,24518,Under 50k,High School 
+9DB8-F763,Marlin Upcraft,Male,Some Travel,Technology,37,CA,White,4,Information Systems,Data Scientist,Married,3,FALSE,17/01/2020,FALSE,2,0,1,0,23,18-24,California,26406,Under 50k,Masters 
+C579-11D1,Benjie Grosvenor,Male,Some Travel,Technology,11,CA,White,4,Information Systems,Data Scientist,Married,1,FALSE,4/09/2020,FALSE,2,2,2,2,23,18-24,California,22488,Under 50k,Masters 
+B1BC-0011,Rea Legister,Female,Some Travel,Technology,37,NY,White,2,Business Studies,Data Scientist,Divorced,3,FALSE,1/01/2018,FALSE,4,3,3,1,23,18-24,New York,36098,Under 50k,High School 
+8291-DE04,Ring Miles,Non-Binary,Frequent Traveller,Technology,26,CA,White,2,Information Systems,Data Scientist,Single,0,FALSE,22/03/2019,FALSE,3,0,3,0,23,18-24,California,31342,Under 50k,High School 
+61F3-DE78,Dehlia Fullerton,Female,Some Travel,Technology,40,CA,White,3,Computer Science,Data Scientist,Single,0,FALSE,24/08/2020,FALSE,2,2,2,0,23,18-24,California,23632,Under 50k,Bachelors 
+45BA-6683,Hort Rawstron,Male,Some Travel,Technology,1,IL,Black or African American,1,Other,Data Scientist,Divorced,1,TRUE,29/08/2017,FALSE,5,2,4,5,23,18-24,Illinois,47648,Under 50k,No Formal Qualifications
+F72A-48DD,Ryley Piche,Non-Binary,Some Travel,Technology,7,CA,White,1,Information Systems,Data Scientist,Single,0,FALSE,11/03/2019,FALSE,3,2,3,3,23,18-24,California,27360,Under 50k,No Formal Qualifications
+A859-9A84,Guthrie Blunt,Male,Some Travel,Technology,26,NY,White,2,Computer Science,Data Scientist,Divorced,1,FALSE,12/09/2019,FALSE,3,1,2,0,23,18-24,New York,31426,Under 50k,High School 
+7486-A1B6,Ripley Woodvine,Male,Some Travel,Technology,25,CA,White,2,Information Systems,Data Scientist,Married,1,FALSE,1/03/2017,FALSE,5,2,3,2,23,18-24,California,50570,Unknown,High School 
+4D95-ECAD,Daffy Borlease,Female,Some Travel,Technology,32,CA,White,4,Computer Science,Data Scientist,Divorced,3,FALSE,18/12/2019,FALSE,3,0,2,0,23,18-24,California,47294,Under 50k,Masters 
+2F04-931F,Carlyle Catt,Male,Some Travel,Technology,25,CA,Mixed or multiple ethnic groups,3,Business Studies,Data Scientist,Single,0,TRUE,2/10/2018,TRUE,1,0,0,0,23,18-24,California,37121,Under 50k,Bachelors 
+90EB-69E4,Devan Ellice,Female,Some Travel,Technology,31,CA,Asian or Asian American,3,Computer Science,Data Scientist,Single,0,FALSE,28/12/2018,FALSE,4,3,3,1,23,18-24,California,49543,Under 50k,Bachelors 
+F9BA-C7C8,Celina Pawlata,Female,Some Travel,Technology,12,NY,White,3,Computer Science,Data Scientist,Married,1,FALSE,7/02/2020,FALSE,2,0,0,0,23,18-24,New York,27347,Under 50k,Bachelors 
+9C6C-E5CE,Damon Nice,Non-Binary,Frequent Traveller,Technology,15,CA,Asian or Asian American,3,Information Systems,Data Scientist,Single,0,FALSE,24/07/2017,FALSE,5,0,1,1,23,18-24,California,29890,Under 50k,Bachelors 
+3B11-DF28,Helge Exley,Female,Frequent Traveller,Technology,28,CA,White,2,Computer Science,Data Scientist,Single,0,FALSE,23/08/2019,TRUE,3,0,0,1,23,18-24,California,57133,Unknown,High School 
+7B96-B655,Jonah Chatwood,Male,No Travel ,Technology,18,NY,Mixed or multiple ethnic groups,3,Computer Science,Data Scientist,Divorced,1,FALSE,11/08/2019,FALSE,3,0,0,1,24,18-24,New York,104807,Unknown,Bachelors 
+7DA1-A202,Gene Sends,Female,Some Travel,Technology,18,CA,Mixed or multiple ethnic groups,4,Computer Science,Data Scientist,Divorced,2,FALSE,2/09/2018,FALSE,4,1,2,1,24,18-24,California,28539,Under 50k,Masters 
+0F53-9877,Verina Bottrell,Female,Some Travel,Technology,5,CA,White,4,Computer Science,Data Scientist,Single,0,FALSE,16/12/2019,FALSE,3,0,0,0,24,18-24,California,100576,Unknown,Masters 
+8A6B-AD5C,Ruby O'Scollain,Female,Some Travel,Technology,30,CA,White,3,Information Systems,Data Scientist,Single,0,FALSE,2/08/2016,TRUE,1,1,1,0,24,18-24,California,61883,Unknown,Bachelors 
+ABC2-0036,Gerta Littlewood,Female,Some Travel,Technology,17,NY,Mixed or multiple ethnic groups,3,Information Systems,Data Scientist,Married,3,FALSE,31/05/2018,FALSE,4,0,2,1,24,18-24,New York,101408,Unknown,Bachelors 
+05F0-6F7B,Ashlee Mc Combe,Female,Some Travel,Technology,5,NY,White,1,Information Systems,Data Scientist,Single,0,FALSE,24/12/2017,FALSE,5,1,3,0,24,18-24,New York,100818,Unknown,No Formal Qualifications
+70CB-4A9B,Rivkah Hurdle,Non-Binary,Some Travel,Technology,2,CA,Black or African American,1,Information Systems,Data Scientist,Married,3,TRUE,4/03/2019,FALSE,3,0,2,1,24,18-24,California,28797,Under 50k,No Formal Qualifications
+2A89-93B6,Lissy Schimek,Female,Some Travel,Technology,13,NY,White,4,Computer Science,Data Scientist,Single,0,FALSE,21/08/2018,TRUE,3,1,1,2,24,18-24,New York,30117,Under 50k,Masters 
+BFAF-1ED1,Georges Hinstridge,Male,Frequent Traveller,Technology,14,CA,Mixed or multiple ethnic groups,4,Computer Science,Data Scientist,Divorced,1,FALSE,28/07/2018,FALSE,4,3,4,2,24,18-24,California,67538,Unknown,Masters 
+D529-0BC2,Katharina Nehlsen,Female,Some Travel,Technology,42,CA,White,2,Other,Data Scientist,Married,1,TRUE,6/02/2017,FALSE,5,0,5,1,24,18-24,California,38775,Under 50k,High School 
+40BE-EEAF,Adriano Purselowe,Male,Frequent Traveller,Technology,45,CA,White,3,Computer Science,Data Scientist,Single,0,TRUE,28/03/2021,TRUE,1,0,0,0,24,18-24,California,85422,Unknown,Bachelors 
+1A38-1D62,Maurise Shaxby,Female,Some Travel,Technology,21,CA,Mixed or multiple ethnic groups,3,Information Systems,Data Scientist,Divorced,1,TRUE,29/03/2018,FALSE,4,2,4,0,24,18-24,California,36862,Under 50k,Bachelors 
+D3EB-610D,Bo Cullabine,Male,Frequent Traveller,Technology,10,NY,Mixed or multiple ethnic groups,4,Computer Science,Data Scientist,Married,1,TRUE,10/10/2016,FALSE,6,2,6,6,24,18-24,New York,67447,Unknown,Masters 
+FADC-21F2,Barbra Lanceter,Female,No Travel ,Technology,25,CA,White,2,Computer Science,Data Scientist,Married,1,TRUE,8/06/2019,FALSE,3,2,3,1,24,18-24,California,40342,Under 50k,High School 
+A885-BF42,Donavon Hallet,Male,Some Travel,Technology,19,CA,White,2,Computer Science,Data Scientist,Single,0,FALSE,24/12/2018,FALSE,4,1,4,1,24,18-24,California,32173,Under 50k,High School 
+0D1B-DEC2,Celestine Kyngdon,Non-Binary,Some Travel,Technology,23,CA,American Indian or Alaska Native,3,Computer Science,Data Scientist,Single,0,FALSE,23/04/2017,TRUE,4,4,4,4,24,18-24,California,100586,Unknown,Bachelors 
+9723-FED9,Charyl Bartaletti,Female,Some Travel,Technology,4,CA,Black or African American,3,Business Studies,Data Scientist,Married,1,FALSE,16/08/2018,FALSE,4,4,4,2,24,18-24,California,41555,Under 50k,Bachelors 
+F7B0-E6B2,Tarrance Reidshaw,Male,Frequent Traveller,Technology,15,IL,White,2,Computer Science,Data Scientist,Divorced,1,FALSE,17/07/2017,FALSE,5,5,5,2,24,18-24,Illinois,63078,Unknown,High School 
+1E61-B76A,Wilie Northfield,Female,Some Travel,Technology,26,NY,Asian or Asian American,2,Other,Data Scientist,Single,0,FALSE,5/04/2016,FALSE,6,1,4,1,24,18-24,New York,39048,Under 50k,High School 
+D24B-5AC8,Horatio Chaffen,Male,Some Travel,Technology,45,CA,Mixed or multiple ethnic groups,4,Information Systems,Data Scientist,Married,0,FALSE,14/07/2017,FALSE,5,5,5,1,24,18-24,California,38022,Under 50k,Masters 
+801C-89BF,Maren Tizard,Female,Some Travel,Technology,5,NY,Asian or Asian American,2,Information Systems,Data Scientist,Divorced,1,FALSE,12/11/2016,FALSE,6,4,6,2,24,18-24,New York,46151,Under 50k,High School 
+C57E-6E4F,Tremain Drakes,Male,No Travel ,Technology,35,CA,Asian or Asian American,3,Computer Science,Data Scientist,Single,0,TRUE,6/02/2018,TRUE,1,1,1,0,24,18-24,California,32502,Under 50k,Bachelors 
+E911-EAF3,Bell Paolacci,Female,Some Travel,Technology,25,NY,White,1,Information Systems,Data Scientist,Divorced,3,FALSE,10/01/2022,FALSE,0,0,0,0,24,18-24,New York,26973,Under 50k,No Formal Qualifications
+5D69-D350,Lyle Waby,Male,Frequent Traveller,Technology,7,IL,White,3,Information Systems,Data Scientist,Divorced,2,FALSE,23/09/2016,TRUE,4,4,4,3,24,18-24,Illinois,104649,Unknown,Bachelors 
+6AD1-5EE8,Donetta Duberry,Female,Some Travel,Technology,12,CA,White,3,Information Systems,Data Scientist,Married,1,FALSE,4/10/2016,FALSE,6,6,6,6,24,18-24,California,47183,Under 50k,Bachelors 
+B8A5-07A1,Ainsley Norheny,Female,Some Travel,Technology,27,IL,White,4,Other,Data Scientist,Married,0,FALSE,21/05/2016,FALSE,6,1,2,6,24,18-24,Illinois,33554,Under 50k,Masters 
+EE91-1A9C,Harley Dalliwater,Male,Some Travel,Technology,22,IL,Black or African American,3,Information Systems,Data Scientist,Married,0,TRUE,27/10/2016,TRUE,5,3,3,2,25,25-31,Illinois,21350,Under 50k,Bachelors 
+6CC9-81FC,Anatollo Dake,Male,No Travel ,Technology,43,CA,White,3,Computer Science,Data Scientist,Single,0,FALSE,15/03/2018,FALSE,4,4,4,2,25,25-31,California,33086,Under 50k,Bachelors 
+A848-F98B,Scot Yakebovich,Male,Some Travel,Technology,37,CA,Black or African American,2,Computer Science,Data Scientist,Married,0,FALSE,26/01/2018,TRUE,2,1,1,1,25,25-31,California,38038,Under 50k,High School 
+03C5-51AD,Maxie Banker,Female,Some Travel,Technology,1,IL,White,2,Computer Science,Data Scientist,Married,1,TRUE,6/12/2015,TRUE,7,4,6,2,25,25-31,Illinois,32354,Under 50k,High School 
+FC47-1953,Barby Plaid,Female,Frequent Traveller,Technology,15,CA,Black or African American,4,Other,Data Scientist,Married,1,FALSE,21/04/2016,FALSE,6,1,1,3,25,25-31,California,31931,Under 50k,Masters 
+83FD-F920,Yorgo Clappison,Male,Some Travel,Technology,41,CA,White,1,Computer Science,Data Scientist,Married,0,TRUE,10/01/2016,TRUE,4,3,3,1,25,25-31,California,28137,Under 50k,No Formal Qualifications
+E442-1FEE,Nicoline Rippon,Female,Frequent Traveller,Technology,36,CA,American Indian or Alaska Native,2,Information Systems,Data Scientist,Single,0,FALSE,13/02/2017,FALSE,5,5,5,2,25,25-31,California,31698,Under 50k,High School 
+4C99-E626,Friederike Wandrey,Female,No Travel ,Technology,11,CA,Black or African American,3,Computer Science,Data Scientist,Single,0,FALSE,14/05/2018,FALSE,4,0,0,3,25,25-31,California,96779,Unknown,Bachelors 
+C520-6F2B,Jena Danzig,Female,Some Travel,Technology,34,CA,White,3,Information Systems,Data Scientist,Single,0,TRUE,14/07/2016,FALSE,6,1,3,1,25,25-31,California,45286,Under 50k,Bachelors 
+EACC-D1F6,Garth Gove,Male,Some Travel,Technology,20,CA,White,3,Computer Science,Data Scientist,Married,2,TRUE,5/05/2017,TRUE,3,2,3,1,25,25-31,California,27673,Under 50k,Bachelors 
+75CF-67E0,Andra Stickney,Female,No Travel ,Technology,12,NY,Black or African American,2,Information Systems,Data Scientist,Divorced,2,TRUE,6/03/2018,FALSE,4,1,3,4,25,25-31,New York,28926,Under 50k,High School 
+8F78-4A32,Sigismundo Durtnel,Male,No Travel ,Technology,12,NY,Black or African American,3,Information Systems,Data Scientist,Single,0,FALSE,14/03/2015,FALSE,7,2,7,4,25,25-31,New York,31962,Under 50k,Bachelors 
+0E79-8257,Noby Lifton,Male,Frequent Traveller,Technology,35,NY,White,2,Information Systems,Data Scientist,Single,0,FALSE,23/05/2016,FALSE,6,1,1,5,25,25-31,New York,28139,Under 50k,High School 
+2546-1312,Carlos Galia,Male,Frequent Traveller,Technology,20,NY,American Indian or Alaska Native,3,Information Systems,Data Scientist,Single,0,FALSE,24/06/2017,FALSE,5,0,1,0,25,25-31,New York,61054,Unknown,Bachelors 
+8EA4-9179,Cristian Dignum,Male,Some Travel,Technology,23,NY,Black or African American,3,Computer Science,Data Scientist,Single,0,FALSE,14/03/2015,FALSE,7,7,7,1,25,25-31,New York,24626,Under 50k,Bachelors 
+7D2D-3831,Davon Swetland,Male,Some Travel,Technology,16,NY,Black or African American,3,Information Systems,Data Scientist,Divorced,1,FALSE,12/12/2017,FALSE,5,1,3,3,25,25-31,New York,37742,Under 50k,Bachelors 
+63B8-CCC0,Rafaela Hadigate,Female,Some Travel,Technology,34,CA,White,3,Information Systems,Data Scientist,Single,0,FALSE,5/02/2016,FALSE,6,5,5,0,25,25-31,California,37053,Under 50k,Bachelors 
+503B-AACE,Cherilynn Swafford,Female,Some Travel,Technology,10,CA,Mixed or multiple ethnic groups,3,Information Systems,Data Scientist,Single,0,FALSE,26/07/2018,FALSE,4,0,3,0,25,25-31,California,23198,Under 50k,Bachelors 
+7623-9AF1,Sosanna Armstrong,Female,Some Travel,Technology,18,CA,Mixed or multiple ethnic groups,3,Information Systems,Data Scientist,Married,1,FALSE,29/06/2017,FALSE,5,0,0,2,26,25-31,California,46809,Under 50k,Bachelors 
+184D-06FF,Waly McCoish,Female,Some Travel,Technology,24,CA,White,4,Computer Science,Data Scientist,Divorced,1,FALSE,25/07/2017,FALSE,5,3,4,0,26,25-31,California,35757,Under 50k,Masters 
+B122-D3D2,Gigi Wrack,Female,Some Travel,Technology,21,CA,White,2,Other,Data Scientist,Married,1,FALSE,30/01/2017,FALSE,5,5,5,0,26,25-31,California,89366,Unknown,High School 
+C251-2A18,Honor Jesson,Non-Binary,Some Travel,Technology,28,CA,White,4,Computer Science,Data Scientist,Single,0,FALSE,7/08/2015,FALSE,7,7,7,1,26,25-31,California,29791,Under 50k,Masters 
+B967-D6D3,Kimmy O'Logan,Female,No Travel ,Technology,21,CA,White,3,Computer Science,Data Scientist,Married,1,FALSE,4/05/2016,FALSE,6,0,5,3,26,25-31,California,26919,Under 50k,Bachelors 
+55B1-3712,Katine Fielder,Female,Some Travel,Technology,36,CA,White,4,Information Systems,Data Scientist,Married,1,TRUE,15/10/2016,FALSE,6,4,5,6,26,25-31,California,22162,Under 50k,Masters 
+FC24-43F6,Stevana Djorvic,Female,Some Travel,Technology,33,CA,Black or African American,3,Computer Science,Data Scientist,Married,0,FALSE,21/10/2017,FALSE,5,5,5,0,26,25-31,California,34805,Under 50k,Bachelors 
+EB8F-204D,Ingram Franciskiewicz,Male,Some Travel,Technology,5,CA,White,3,Other,Data Scientist,Divorced,1,FALSE,13/01/2016,TRUE,1,0,0,0,26,25-31,California,49045,Under 50k,Bachelors 
+B8C3-5E0A,Joyous Muggleston,Female,Some Travel,Technology,18,CA,White,3,Computer Science,Data Scientist,Divorced,2,FALSE,14/05/2017,FALSE,5,5,5,0,26,25-31,California,26414,Under 50k,Bachelors 
+596B-33F4,Shell McPeck,Male,Some Travel,Technology,2,IL,White,3,Computer Science,Data Scientist,Divorced,1,TRUE,1/09/2016,TRUE,5,1,3,0,26,25-31,Illinois,30207,Under 50k,Bachelors 
+5605-237E,Linell Lack,Female,Some Travel,Technology,7,NY,Black or African American,3,Computer Science,Data Scientist,Married,1,TRUE,3/12/2015,FALSE,7,4,4,2,26,25-31,New York,34047,Under 50k,Bachelors 
+291F-B604,Sebastien Lanmeid,Male,Some Travel,Technology,3,NY,Black or African American,4,Information Systems,Data Scientist,Divorced,1,TRUE,22/10/2016,TRUE,0,0,0,0,26,25-31,New York,28952,Under 50k,Masters 
+D383-714B,Lindsey Hedley,Male,Frequent Traveller,Technology,12,IL,White,3,Other,Data Scientist,Married,1,FALSE,22/04/2017,FALSE,5,1,3,1,26,25-31,Illinois,29449,Under 50k,Bachelors 
+41EC-F2AA,Antoinette Dreamer,Female,Frequent Traveller,Technology,42,CA,Asian or Asian American,1,Computer Science,Data Scientist,Married,1,FALSE,4/05/2015,FALSE,7,4,5,2,26,25-31,California,56966,Unknown,No Formal Qualifications
+04D7-C8F3,Scarlett Elstob,Female,Some Travel,Technology,27,CA,White,2,Computer Science,Data Scientist,Married,1,FALSE,26/10/2015,FALSE,7,7,7,2,26,25-31,California,42052,Under 50k,High School 
+541F-3E19,Dot Aherne,Female,Some Travel,Technology,30,CA,White,1,Information Systems,Data Scientist,Single,0,TRUE,2/04/2014,TRUE,1,0,0,1,27,25-31,California,49374,Under 50k,No Formal Qualifications
+411F-6325,Fabio Metham,Male,Frequent Traveller,Technology,45,CA,White,2,Information Systems,Data Scientist,Single,0,FALSE,17/06/2016,FALSE,6,4,4,4,27,25-31,California,34579,Under 50k,High School 
+ADF8-AD57,Trip Bennell,Male,Some Travel,Technology,28,CA,White,3,Computer Science,Data Scientist,Single,0,FALSE,16/08/2016,TRUE,0,0,0,0,27,25-31,California,20387,Under 50k,Bachelors 
+CE90-763C,Carly Mushawe,Female,Frequent Traveller,Technology,40,CA,Black or African American,3,Information Systems,Data Scientist,Married,1,FALSE,2/08/2015,FALSE,7,1,3,6,27,25-31,California,31672,Under 50k,Bachelors 
+296A-A685,Dina Paice,Female,No Travel ,Technology,34,CA,Asian or Asian American,2,Business Studies,Data Scientist,Single,0,FALSE,3/02/2015,FALSE,7,7,7,2,27,25-31,California,30783,Under 50k,High School 
+9360-3A68,Cathyleen Hallin,Female,No Travel ,Technology,12,IL,White,3,Information Systems,Data Scientist,Single,0,FALSE,12/11/2015,FALSE,7,6,6,6,27,25-31,Illinois,41524,Under 50k,Bachelors 
+C7C8-43D9,Rebecka Leat,Female,Some Travel,Technology,25,NY,Asian or Asian American,4,Information Systems,Data Scientist,Divorced,3,FALSE,17/04/2016,FALSE,6,5,5,6,27,25-31,New York,24571,Under 50k,Masters 
+F20A-F424,Basia Goodswen,Female,Frequent Traveller,Technology,4,NY,White,3,Other,Data Scientist,Married,1,FALSE,9/02/2016,FALSE,6,6,6,5,27,25-31,New York,27550,Under 50k,Bachelors 
+8CF6-3079,Jaquenetta Corkel,Female,Some Travel,Technology,1,NY,Black or African American,4,Computer Science,Data Scientist,Divorced,1,TRUE,16/07/2013,TRUE,1,0,0,0,27,25-31,New York,40050,Under 50k,Masters 
+9412-7AA6,Edith Middis,Non-Binary,Some Travel,Technology,10,CA,White,3,Information Systems,Data Scientist,Single,0,FALSE,19/04/2015,FALSE,7,1,5,5,27,25-31,California,45438,Under 50k,Bachelors 
+B995-E5CE,Anitra Korfmann,Non-Binary,Some Travel,Technology,2,CA,Mixed or multiple ethnic groups,4,Computer Science,Data Scientist,Married,1,FALSE,10/10/2015,FALSE,7,6,7,4,27,25-31,California,39198,Under 50k,Masters 
+DA8E-9496,Tobias Polkinghorne,Male,Some Travel,Technology,22,CA,White,2,Computer Science,Data Scientist,Single,0,TRUE,4/10/2016,TRUE,3,1,1,2,27,25-31,California,56449,Unknown,High School 
+8FB2-4CE0,Kurtis Plane,Male,Some Travel,Technology,14,IL,White,4,Computer Science,Data Scientist,Single,0,FALSE,6/12/2016,TRUE,2,1,1,1,27,25-31,Illinois,37545,Under 50k,Masters 
+B4E1-4A3E,Beckie Tawn,Female,Some Travel,Technology,12,CA,White,2,Computer Science,Data Scientist,Married,1,FALSE,31/03/2014,TRUE,4,1,3,2,28,25-31,California,115895,Unknown,High School 
+ABB5-0B95,Thomasine Odell,Non-Binary,No Travel ,Technology,26,CA,Mixed or multiple ethnic groups,5,Computer Science,Data Scientist,Married,3,FALSE,30/09/2015,FALSE,7,1,3,4,28,25-31,California,112175,Unknown,Doctorate
+CC8A-0B1F,Letta Van der Kruys,Female,Some Travel,Technology,23,CA,Mixed or multiple ethnic groups,2,Business Studies,Data Scientist,Married,1,FALSE,27/06/2014,TRUE,5,4,4,0,28,25-31,California,65328,Unknown,High School 
+3560-C117,Allyson Kordas,Female,Frequent Traveller,Technology,4,CA,Mixed or multiple ethnic groups,3,Computer Science,Data Scientist,Married,1,TRUE,9/05/2012,TRUE,2,0,0,0,28,25-31,California,65659,Unknown,Bachelors 
+65A0-5D04,Ginnifer Grigoletti,Female,Frequent Traveller,Technology,20,CA,Black or African American,1,Computer Science,Data Scientist,Married,3,FALSE,2/06/2015,FALSE,7,6,6,4,28,25-31,California,62016,Unknown,No Formal Qualifications
+B013-7D0C,Carline Mort,Female,Some Travel,Technology,24,CA,Mixed or multiple ethnic groups,3,Information Systems,Data Scientist,Married,1,TRUE,30/08/2013,TRUE,1,1,1,0,28,25-31,California,46313,Under 50k,Bachelors 
+9FE1-0345,Eldridge Artois,Male,Some Travel,Technology,6,CA,White,1,Information Systems,Data Scientist,Single,0,FALSE,21/04/2012,FALSE,10,6,10,7,28,25-31,California,87175,Unknown,No Formal Qualifications
+9F65-F612,Patrice Wearing,Female,Some Travel,Technology,33,CA,Asian or Asian American,3,Computer Science,Data Scientist,Single,0,FALSE,23/04/2012,TRUE,3,3,3,2,28,25-31,California,54536,Unknown,Bachelors 
+93B1-6510,Giraldo Matyashev,Male,No Travel ,Technology,30,CA,White,3,Computer Science,Data Scientist,Single,0,FALSE,23/02/2015,FALSE,7,1,4,2,28,25-31,California,52930,Unknown,Bachelors 
+0CF8-1EBD,Franciska Cubbin,Female,Frequent Traveller,Technology,38,CA,Mixed or multiple ethnic groups,4,Computer Science,Data Scientist,Married,2,FALSE,28/03/2015,FALSE,7,1,3,6,28,25-31,California,87704,Unknown,Masters 
+FADE-8191,Venita MacCague,Non-Binary,Some Travel,Technology,42,NY,White,4,Computer Science,Data Scientist,Married,1,FALSE,20/07/2020,FALSE,2,0,1,0,28,25-31,New York,85987,Unknown,Masters 
+E099-3FCC,Haywood Ruprich,Male,Some Travel,Technology,15,NY,White,3,Computer Science,Data Scientist,Married,2,FALSE,12/02/2015,FALSE,7,3,6,5,28,25-31,New York,83951,Unknown,Bachelors 
+F72D-261D,Giustino Boyan,Male,Frequent Traveller,Technology,5,NY,Mixed or multiple ethnic groups,3,Information Systems,Data Scientist,Single,0,TRUE,6/01/2014,TRUE,1,0,1,0,28,25-31,New York,76133,Unknown,Bachelors 
+FE2B-3DC7,Mattie Wippermann,Female,Some Travel,Technology,23,NY,White,3,Information Systems,Data Scientist,Married,3,TRUE,7/05/2012,TRUE,5,3,4,5,28,25-31,New York,35606,Under 50k,Bachelors 
+D6BB-FEDF,Galen Rocca,Male,Frequent Traveller,Technology,40,NY,White,5,Information Systems,Data Scientist,Divorced,1,TRUE,19/11/2015,FALSE,7,1,3,1,28,25-31,New York,109172,Unknown,Doctorate
+1F0F-458C,Carrie Scroyton,Female,Some Travel,Technology,3,NY,White,3,Business Studies,Data Scientist,Divorced,2,TRUE,11/04/2013,TRUE,5,1,3,1,29,25-31,New York,60388,Unknown,Bachelors 
+CC2F-670E,Blake Louys,Male,Frequent Traveller,Technology,26,CA,White,3,Computer Science,Data Scientist,Single,0,TRUE,23/02/2013,TRUE,6,5,5,2,29,25-31,California,78541,Unknown,Bachelors 
+2F98-E645,Monah Fivey,Female,Frequent Traveller,Technology,17,CA,Black or African American,3,Computer Science,Data Scientist,Married,1,TRUE,25/02/2014,TRUE,5,2,5,2,29,25-31,California,105554,Unknown,Bachelors 
+D4D5-27FB,Bengt Keaves,Male,Some Travel,Technology,36,NY,White,1,Information Systems,Data Scientist,Divorced,3,FALSE,20/11/2014,TRUE,6,5,5,5,29,25-31,New York,86428,Unknown,No Formal Qualifications
+0D8F-C0F3,Cathrine Lankford,Female,Some Travel,Technology,44,CA,Asian or Asian American,3,Business Studies,Data Scientist,Divorced,1,FALSE,10/06/2013,TRUE,1,0,0,0,29,25-31,California,67578,Unknown,Bachelors 
+C525-8BB9,Briggs Pettet,Male,Some Travel,Technology,14,NY,Black or African American,3,Other,Data Scientist,Divorced,1,FALSE,10/04/2013,FALSE,9,2,7,9,29,25-31,New York,70872,Unknown,Bachelors 
+D970-9F5E,Lilla Ledamun,Female,Some Travel,Technology,36,CA,Asian or Asian American,3,Computer Science,Data Scientist,Married,0,FALSE,29/05/2014,TRUE,6,1,1,1,29,25-31,California,46813,Under 50k,Bachelors 
+DF71-97FB,Carlyle Tinghill,Male,No Travel ,Technology,12,IL,White,4,Computer Science,Data Scientist,Married,0,FALSE,14/05/2014,FALSE,8,3,5,8,29,25-31,Illinois,62756,Unknown,Masters 
+7EE7-2C43,Tobye Dietmar,Female,Some Travel,Technology,9,NY,Black or African American,4,Computer Science,Data Scientist,Single,0,TRUE,26/10/2013,TRUE,7,2,3,2,29,25-31,New York,48321,Under 50k,Masters 
+81BE-17CD,Frederick Cheley,Male,Frequent Traveller,Technology,33,CA,White,2,Computer Science,Data Scientist,Single,0,TRUE,18/12/2013,FALSE,9,1,5,5,30,25-31,California,35126,Under 50k,High School 
+B52E-BF41,Salomi Finlry,Female,Some Travel,Technology,26,NY,Black or African American,4,Computer Science,Data Scientist,Married,2,FALSE,4/12/2013,FALSE,9,9,9,9,30,25-31,New York,36280,Under 50k,Masters 
+819A-2C9C,Hillary Atchly,Male,No Travel ,Technology,7,NY,American Indian or Alaska Native,3,Computer Science,Data Scientist,Married,1,TRUE,14/08/2013,FALSE,9,2,4,8,30,25-31,New York,138989,Unknown,Bachelors 
+FD95-9EEB,Sasha Incogna,Male,Some Travel,Technology,19,IL,White,4,Business Studies,Data Scientist,Single,0,TRUE,19/11/2020,TRUE,0,0,0,0,30,25-31,Illinois,96187,Unknown,Masters 
+45D2-369E,Melvin McGeneay,Male,Some Travel,Technology,7,CA,White,1,Information Systems,Data Scientist,Married,1,FALSE,7/06/2013,FALSE,9,8,9,8,30,25-31,California,70182,Unknown,No Formal Qualifications
+1054-9C3B,Elizabeth Babbe,Female,Some Travel,Technology,1,IL,Asian or Asian American,4,Other,Data Scientist,Married,0,TRUE,21/03/2013,TRUE,1,1,1,0,30,25-31,Illinois,40285,Under 50k,Masters 
+5E9A-FE30,Lindy Carratt,Female,Some Travel,Technology,38,CA,White,4,Computer Science,Data Scientist,Married,1,TRUE,24/11/2014,FALSE,8,4,4,1,30,25-31,California,88609,Unknown,Masters 
+565B-C207,Seline Ganny,Female,No Travel ,Technology,3,IL,White,3,Information Systems,Data Scientist,Married,1,FALSE,8/05/2013,FALSE,9,4,9,1,30,25-31,Illinois,47338,Under 50k,Bachelors 
+19C3-DAE4,Cristiano Brugger,Male,Some Travel,Technology,19,CA,Black or African American,3,Information Systems,Data Scientist,Married,1,FALSE,11/06/2014,FALSE,8,3,3,7,30,25-31,California,53336,Unknown,Bachelors 
+66D5-3142,Rivi Salkild,Female,Frequent Traveller,Technology,7,NY,White,3,Business Studies,Data Scientist,Married,1,FALSE,16/12/2019,FALSE,3,0,3,3,30,25-31,New York,175692,150k-300k,Bachelors 
+528C-3E0D,Giffer Raspin,Male,Some Travel,Technology,4,CA,Native Hawaiian ,1,Information Systems,Data Scientist,Married,0,TRUE,15/10/2013,TRUE,6,0,3,3,30,25-31,California,42045,Under 50k,No Formal Qualifications
+00E4-3D60,Sherilyn Girke,Female,Frequent Traveller,Technology,37,CA,White,1,Business Studies,Data Scientist,Single,0,FALSE,23/06/2022,TRUE,0,0,0,0,30,25-31,California,109778,Unknown,No Formal Qualifications
+618D-7685,Maridel O'Hederscoll,Female,Some Travel,Technology,26,CA,White,3,Information Systems,Data Scientist,Single,0,FALSE,15/04/2013,FALSE,9,4,9,1,30,25-31,California,96170,Unknown,Bachelors 
+5476-CA0D,Kayley Snoad,Female,Frequent Traveller,Technology,4,NY,Native Hawaiian ,2,Information Systems,Data Scientist,Single,0,FALSE,12/01/2012,TRUE,6,5,5,1,31,25-31,New York,69747,Unknown,High School 
+E442-5985,Bear Bertolin,Male,No Travel ,Technology,5,CA,White,4,Computer Science,Data Scientist,Married,1,FALSE,13/09/2022,FALSE,0,0,0,0,32,32-38,California,124429,Unknown,Masters 
+C79A-E5E1,Alvera Kulver,Female,Frequent Traveller,Technology,13,CA,White,1,Computer Science,Data Scientist,Divorced,1,TRUE,17/02/2012,TRUE,8,5,7,0,32,32-38,California,48835,Under 50k,No Formal Qualifications
+D871-1F74,Beitris Davers,Female,Frequent Traveller,Technology,40,CA,White,5,Computer Science,Data Scientist,Single,0,FALSE,22/06/2014,FALSE,8,0,6,3,32,32-38,California,60759,Unknown,Doctorate
+9D3C-DA45,Broddy Jardine,Male,Some Travel,Technology,24,CA,Native Hawaiian ,3,Information Systems,Data Scientist,Married,1,FALSE,12/04/2013,FALSE,9,0,5,2,32,32-38,California,41857,Under 50k,Bachelors 
+7FFD-C810,Claresta Impy,Female,Some Travel,Technology,22,IL,White,2,Other,Data Scientist,Married,1,FALSE,30/01/2012,FALSE,10,1,5,1,32,32-38,Illinois,75821,Unknown,High School 
+C730-6B13,Ariadne Isakov,Female,Some Travel,Technology,20,IL,Native Hawaiian ,4,Computer Science,Data Scientist,Single,0,FALSE,31/10/2013,FALSE,9,9,9,5,32,32-38,Illinois,85884,Unknown,Masters 
+AA87-13D8,Rita Chrismas,Female,Frequent Traveller,Technology,15,CA,White,2,Information Systems,Data Scientist,Married,1,FALSE,10/10/2013,FALSE,9,8,9,8,32,32-38,California,44388,Under 50k,High School 
+A2AE-FD61,Conrado Brearley,Male,Some Travel,Technology,30,CA,White,1,Information Systems,Data Scientist,Married,3,FALSE,18/05/2021,FALSE,1,0,1,1,32,32-38,California,89960,Unknown,No Formal Qualifications
+73CF-4956,Hannis Waslin,Female,Some Travel,Technology,42,CA,White,4,Computer Science,Data Scientist,Single,0,FALSE,12/01/2012,FALSE,10,4,5,8,32,32-38,California,102022,Unknown,Masters 
+CACA-0D62,Zarla Farrans,Female,Some Travel,Technology,33,CA,Mixed or multiple ethnic groups,3,Information Systems,Data Scientist,Married,2,FALSE,9/02/2014,FALSE,8,7,8,8,32,32-38,California,121881,Unknown,Bachelors 
+9CE9-B0D5,Hilary McPhee,Male,Some Travel,Technology,31,CA,White,1,Information Systems,Data Scientist,Married,1,FALSE,15/06/2014,FALSE,8,7,8,1,33,32-38,California,60754,Unknown,No Formal Qualifications
+3B90-B998,Giffy Rofe,Male,No Travel ,Technology,26,CA,White,3,Computer Science,Data Scientist,Divorced,3,FALSE,29/09/2014,FALSE,8,6,7,2,33,32-38,California,43998,Under 50k,Bachelors 
+5C61-8F3A,Dyana Gallie,Female,Some Travel,Technology,5,CA,White,1,Information Systems,Data Scientist,Single,0,TRUE,6/02/2012,FALSE,10,8,9,9,34,32-38,California,127432,Unknown,No Formal Qualifications
+10E9-4C86,Ignacius Dockrill,Non-Binary,Frequent Traveller,Technology,12,CA,White,2,Computer Science,Data Scientist,Married,1,TRUE,17/05/2014,FALSE,8,7,7,1,34,32-38,California,44057,Under 50k,High School 
+0145-DBFC,Keelia Studde,Female,No Travel ,Technology,8,CA,Asian or Asian American,4,Information Systems,Data Scientist,Single,0,FALSE,10/02/2014,FALSE,8,7,7,7,34,32-38,California,104268,Unknown,Masters 
+0C7B-2EA6,Oswell McCloid,Male,Frequent Traveller,Technology,25,NY,Asian or Asian American,2,Other,Data Scientist,Married,1,FALSE,15/09/2013,FALSE,9,5,6,4,34,32-38,New York,39015,Under 50k,High School 
+9085-1FE8,Fan Pizey,Female,Some Travel,Technology,32,NY,Mixed or multiple ethnic groups,2,Business Studies,Data Scientist,Married,1,TRUE,15/05/2012,FALSE,10,5,7,4,35,32-38,New York,119917,Unknown,High School 
+AFC3-E23F,Julissa Fosbraey,Female,Some Travel,Technology,4,CA,White,2,Computer Science,Data Scientist,Single,0,FALSE,14/05/2021,FALSE,1,1,1,1,35,32-38,California,423941,300k-500k,High School 
+372C-E204,Doralia Vassie,Female,Some Travel,Technology,44,NY,White,4,Computer Science,Data Scientist,Single,1,TRUE,21/09/2022,FALSE,0,0,0,0,35,32-38,New York,455643,300k-500k,Masters 
+AB5F-244C,Horst Mynett,Male,Some Travel,Technology,7,CA,Black or African American,4,Computer Science,Data Scientist,Divorced,1,FALSE,14/04/2012,FALSE,10,0,7,9,36,32-38,California,73643,Unknown,Masters 
+F98B-61B3,Candis Defew,Female,Some Travel,Technology,17,CA,Asian or Asian American,3,Computer Science,Data Scientist,Single,0,FALSE,4/03/2014,FALSE,8,7,7,8,36,32-38,California,72118,Unknown,Bachelors 
+F60C-4888,Erin Pickavance,Female,Frequent Traveller,Technology,6,CA,Asian or Asian American,4,Information Systems,Data Scientist,Single,0,TRUE,5/08/2014,FALSE,8,6,7,2,36,32-38,California,51050,Unknown,Masters 
+7F91-C628,Bertie Suthren,Non-Binary,Frequent Traveller,Technology,14,IL,White,1,Information Systems,Data Scientist,Single,0,FALSE,7/05/2013,FALSE,9,0,9,5,36,32-38,Illinois,43358,Under 50k,No Formal Qualifications
+A31A-A90C,Aleksandr Casetti,Male,Some Travel,Technology,7,CA,Black or African American,3,Information Systems,Data Scientist,Divorced,1,TRUE,28/02/2014,FALSE,8,7,8,2,36,32-38,California,46773,Under 50k,Bachelors 
+5B08-EF96,Karlen Gulston,Female,No Travel ,Technology,28,CA,Asian or Asian American,4,Other,Data Scientist,Divorced,2,FALSE,28/05/2012,FALSE,10,10,10,10,36,32-38,California,77136,Unknown,Masters 
+A531-8159,Carlyn Pavese,Female,No Travel ,Technology,16,NY,Mixed or multiple ethnic groups,3,Information Systems,Data Scientist,Divorced,2,FALSE,23/02/2012,FALSE,10,1,7,6,37,32-38,New York,82099,Unknown,Bachelors 
+327B-F6D3,Codee Jean,Female,Some Travel,Technology,6,CA,Mixed or multiple ethnic groups,2,Computer Science,Data Scientist,Married,1,FALSE,4/10/2013,TRUE,8,3,5,6,37,32-38,California,42188,Under 50k,High School 
+9658-7750,Ray Holbie,Female,Some Travel,Technology,40,NY,American Indian or Alaska Native,4,Information Systems,Data Scientist,Married,3,FALSE,11/07/2014,FALSE,8,2,8,6,37,32-38,New York,49550,Under 50k,Masters 
+5C48-9106,Darwin Capelle,Male,Frequent Traveller,Technology,15,NY,Black or African American,4,Computer Science,Data Scientist,Married,2,FALSE,15/11/2014,FALSE,8,7,7,5,37,32-38,New York,53929,Unknown,Masters 
+30CB-BCD0,Saraann Justice,Female,Frequent Traveller,Technology,31,NY,Black or African American,3,Computer Science,Data Scientist,Married,1,TRUE,27/06/2014,FALSE,8,4,5,2,38,32-38,New York,90187,Unknown,Bachelors 
+2A20-28CD,Dody Stiggles,Female,Frequent Traveller,Technology,2,CA,White,4,Computer Science,Data Scientist,Single,0,FALSE,11/08/2014,FALSE,8,7,8,0,38,32-38,California,58828,Unknown,Masters 
+D696-9D82,Eberto Flaherty,Male,Some Travel,Technology,39,NY,White,3,Computer Science,Data Scientist,Single,0,FALSE,25/03/2012,FALSE,10,5,10,7,38,32-38,New York,65416,Unknown,Bachelors 
+DD78-E811,Addy Slimings,Female,Some Travel,Technology,25,CA,Asian or Asian American,2,Other,Data Scientist,Married,1,FALSE,5/06/2013,FALSE,9,5,6,6,38,32-38,California,60549,Unknown,High School 
+F662-DEA5,Morley Dmitriev,Male,Some Travel,Technology,18,CA,Black or African American,2,Information Systems,Data Scientist,Married,0,FALSE,1/03/2013,FALSE,9,3,9,7,38,32-38,California,89362,Unknown,High School 
+E7A6-33A3,Amye Townes,Female,Some Travel,Technology,39,IL,White,4,Information Systems,Data Scientist,Married,1,FALSE,23/02/2012,FALSE,10,2,3,9,38,32-38,Illinois,83590,Unknown,Masters 
+7F1C-20B8,Page Sculpher,Female,Some Travel,Technology,10,CA,Mixed or multiple ethnic groups,2,Information Systems,Data Scientist,Divorced,1,FALSE,2/07/2013,FALSE,9,9,9,5,39,39-45,California,65796,Unknown,High School 
+076F-8AA3,Reese Dibbert,Male,Some Travel,Technology,5,CA,White,2,Computer Science,Data Scientist,Single,0,FALSE,8/03/2012,TRUE,9,6,6,2,39,39-45,California,58685,Unknown,High School 
+8365-EB74,Umberto Wallentin,Male,Frequent Traveller,Technology,14,CA,Asian or Asian American,2,Information Systems,Data Scientist,Married,1,FALSE,19/08/2013,FALSE,9,4,9,2,40,39-45,California,43854,Under 50k,High School 
+2407-5A4E,Butch Quinby,Male,Some Travel,Technology,22,CA,Black or African American,1,Business Studies,Data Scientist,Married,1,FALSE,6/06/2014,FALSE,8,6,6,3,40,39-45,California,38849,Under 50k,No Formal Qualifications
+D69C-8F84,Sada Torrent,Female,Some Travel,Technology,26,CA,Mixed or multiple ethnic groups,3,Information Systems,Data Scientist,Divorced,3,FALSE,6/02/2014,FALSE,8,2,3,6,40,39-45,California,59899,Unknown,Bachelors 
+CA75-94D1,Avery Larimer,Male,Some Travel,Technology,16,CA,Black or African American,2,Computer Science,Data Scientist,Married,1,FALSE,17/06/2014,FALSE,8,4,8,4,41,39-45,California,45989,Under 50k,High School 
+1359-BEE3,Fawn Pyke,Female,No Travel ,Technology,22,CA,Native Hawaiian ,3,Computer Science,Data Scientist,Married,0,FALSE,9/12/2013,FALSE,9,8,8,7,41,39-45,California,52581,Unknown,Bachelors 
+9811-F345,Wells Mulholland,Male,Some Travel,Technology,40,CA,Black or African American,4,Computer Science,Data Scientist,Divorced,1,FALSE,15/08/2013,FALSE,9,9,9,4,42,39-45,California,142075,Unknown,Masters 
+D351-C7E4,Doralin Whiley,Female,Some Travel,Technology,9,CA,Asian or Asian American,2,Information Systems,Data Scientist,Married,1,FALSE,23/01/2013,FALSE,9,9,9,6,42,39-45,California,73577,Unknown,High School 
+E9B9-3944,Tobit Lowry,Male,Some Travel,Technology,5,NY,Mixed or multiple ethnic groups,1,Computer Science,Data Scientist,Single,0,FALSE,5/05/2012,FALSE,10,4,7,5,42,39-45,New York,47461,Under 50k,No Formal Qualifications
+5416-F925,John Tempest,Male,No Travel ,Technology,14,NY,White,1,Computer Science,Data Scientist,Married,0,FALSE,18/06/2014,FALSE,8,2,4,3,43,39-45,New York,76331,Unknown,No Formal Qualifications
+05B0-755F,Sollie Arnke,Male,Some Travel,Technology,29,CA,Asian or Asian American,3,Computer Science,Data Scientist,Married,0,FALSE,24/05/2013,FALSE,9,8,8,8,44,39-45,California,57890,Unknown,Bachelors 
+EEFC-DEC7,Ezri Cours,Male,Some Travel,Technology,4,NY,Black or African American,4,Other,Data Scientist,Divorced,1,TRUE,18/08/2014,TRUE,8,0,4,1,44,39-45,New York,85523,Unknown,Masters 
+FBC2-C5FA,Hillel Quenby,Male,Some Travel,Technology,4,IL,Mixed or multiple ethnic groups,3,Computer Science,Data Scientist,Married,2,FALSE,26/11/2013,FALSE,9,8,9,9,44,39-45,Illinois,74172,Unknown,Bachelors 
+7B98-EA6F,Gabriello Clemente,Male,Some Travel,Technology,23,CA,Native Hawaiian ,3,Information Systems,Data Scientist,Single,0,FALSE,13/05/2012,FALSE,10,3,3,8,44,39-45,California,108623,Unknown,Bachelors 
+0DBC-596E,Dita Perch,Non-Binary,Some Travel,Technology,14,CA,Black or African American,2,Computer Science,Data Scientist,Single,0,TRUE,6/04/2013,FALSE,9,8,9,9,44,39-45,California,92634,Unknown,High School 
+FD3F-5255,Quintilla Wyllt,Female,Some Travel,Technology,2,IL,White,1,Information Systems,Data Scientist,Divorced,3,TRUE,3/03/2012,FALSE,10,5,8,10,45,39-45,Illinois,64795,Unknown,No Formal Qualifications
+8BCA-723F,Normy De la Harpe,Male,Some Travel,Technology,24,CA,White,4,Computer Science,Data Scientist,Divorced,1,FALSE,29/06/2014,FALSE,8,8,8,8,46,46-51,California,43487,Under 50k,Masters 
+FF14-A43E,Koenraad Nannizzi,Male,Some Travel,Technology,41,NY,American Indian or Alaska Native,1,Computer Science,Data Scientist,Married,0,FALSE,1/02/2012,FALSE,10,3,5,5,47,46-51,New York,40786,Under 50k,No Formal Qualifications
+74F2-5C55,Skipper Sambles,Male,Some Travel,Technology,40,NY,White,2,Computer Science,Data Scientist,Single,0,FALSE,12/04/2012,FALSE,10,0,4,7,47,46-51,New York,108798,Unknown,High School 
+B990-35DA,Appolonia Francis,Female,Some Travel,Technology,7,CA,White,3,Information Systems,Data Scientist,Married,1,FALSE,27/10/2013,FALSE,9,0,7,8,47,46-51,California,116165,Unknown,Bachelors 
+2962-039F,Darice Excell,Female,Some Travel,Technology,5,NY,Mixed or multiple ethnic groups,5,Information Systems,Data Scientist,Single,0,TRUE,6/04/2012,FALSE,10,9,9,0,47,46-51,New York,133616,Unknown,Doctorate
+B09D-DFEC,Eustace Skune,Male,Some Travel,Technology,37,CA,White,1,Information Systems,Data Scientist,Married,1,FALSE,6/04/2013,FALSE,9,2,3,7,47,46-51,California,62999,Unknown,No Formal Qualifications
+A807-DE5D,Bobbye Alexandrescu,Non-Binary,Some Travel,Technology,13,CA,White,3,Computer Science,Data Scientist,Divorced,1,FALSE,7/01/2014,FALSE,8,2,4,7,47,46-51,California,61915,Unknown,Bachelors 
+0CED-EE28,Ruthy Pena,Female,Some Travel,Technology,25,CA,White,1,Computer Science,Data Scientist,Married,0,FALSE,6/03/2012,FALSE,10,4,8,10,48,46-51,California,47464,Under 50k,No Formal Qualifications
+3642-EEAE,Eleanore Gundrey,Female,Some Travel,Technology,43,CA,White,3,Information Systems,Data Scientist,Married,1,FALSE,27/06/2014,FALSE,8,6,8,4,48,46-51,California,56053,Unknown,Bachelors 
+3EB2-9111,Ginger Blinde,Male,Some Travel,Technology,26,IL,White,4,Information Systems,Data Scientist,Divorced,2,FALSE,17/05/2012,FALSE,10,7,7,8,48,46-51,Illinois,35749,Under 50k,Masters 
+C14B-814C,Roby Wintringham,Female,Frequent Traveller,Sales,26,NY,White,4,Economics,Sales Executive,Married,1,FALSE,16/10/2021,FALSE,1,1,1,1,50,46-51,New York,214707,150k-300k,Masters 
+6BC3-7371,Gussi Rodrig,Female,No Travel ,Sales,34,IL,White,3,Marketing,Sales Executive,Single,0,FALSE,21/03/2022,FALSE,0,0,0,0,18,18-24,Illinois,49100,Under 50k,Bachelors 
+C472-DAAD,Raf Laraway,Non-Binary,Frequent Traveller,Sales,38,IL,Black or African American,1,Economics,Sales Executive,Single,2,TRUE,29/10/2022,FALSE,0,0,0,0,18,18-24,Illinois,59962,Unknown,No Formal Qualifications
+7A98-768E,Ericha Tomczykowski,Female,Some Travel,Sales,20,CA,White,3,Technical Degree,Sales Executive,Single,0,FALSE,25/01/2022,TRUE,0,0,0,0,18,18-24,California,58523,Unknown,Bachelors 
+F245-F338,Jamie Lavery,Female,Frequent Traveller,Sales,26,CA,White,3,Economics,Sales Executive,Single,2,FALSE,21/06/2022,FALSE,0,0,0,0,18,18-24,California,62054,Unknown,Bachelors 
+46E1-5086,Herculie Wasielewicz,Non-Binary,Some Travel,Sales,4,NY,White,4,Marketing ,Sales Executive,Single,3,TRUE,23/03/2022,FALSE,0,0,0,0,18,18-24,New York,74515,Unknown,Masters 
+078A-E0F5,Antonino Gillcrist,Male,Some Travel,Sales,18,CA,White,4,Marketing,Sales Executive,Single,0,FALSE,11/02/2022,FALSE,0,0,0,0,18,18-24,California,52198,Unknown,Masters 
+A12D-DAF8,Aurelie Littlejohn,Female,Some Travel,Sales,43,CA,White,4,Economics,Sales Executive,Single,0,FALSE,6/02/2022,FALSE,0,0,0,0,18,18-24,California,41708,Under 50k,Masters 
+135D-DF79,Lew Muzzall,Male,Frequent Traveller,Sales,41,CA,White,4,Marketing,Sales Executive,Single,2,FALSE,7/02/2022,FALSE,0,0,0,0,18,18-24,California,72639,Unknown,Masters 
+AAD3-BCC1,Nikita Pettis,Prefer Not To Say,Some Travel,Sales,9,IL,White,3,Economics,Sales Executive,Single,0,FALSE,19/06/2022,FALSE,0,0,0,0,18,18-24,Illinois,74515,Unknown,Bachelors 
+116F-33F1,Iain MacNeilly,Male,Frequent Traveller,Sales,43,NY,White,1,Marketing ,Sales Executive,Single,0,FALSE,15/08/2022,FALSE,0,0,0,0,19,18-24,New York,65010,Unknown,No Formal Qualifications
+8E8F-DDC8,Christoffer Peaple,Male,Some Travel,Sales,4,IL,White,4,Marketing,Sales Executive,Single,1,TRUE,28/12/2021,FALSE,1,0,0,1,19,18-24,Illinois,38726,Under 50k,Masters 
+6725-A678,Gus Redhouse,Male,Some Travel,Sales,43,CA,White,2,Marketing ,Sales Executive,Single,1,FALSE,26/08/2022,FALSE,0,0,0,0,19,18-24,California,61811,Unknown,High School 
+3F9D-8094,Denys Ponten,Male,Frequent Traveller,Sales,13,CA,White,2,Economics,Sales Executive,Single,3,FALSE,16/11/2021,FALSE,1,0,1,0,19,18-24,California,65960,Unknown,High School 
+0375-2F04,Lani Raddenbury,Female,No Travel ,Sales,38,IL,White,4,Technical Degree,Sales Executive,Single,2,FALSE,30/11/2021,FALSE,1,0,1,0,19,18-24,Illinois,51673,Unknown,Masters 
+5154-0F13,Hilary Easlea,Male,Frequent Traveller,Sales,44,CA,White,3,Marketing,Sales Executive,Single,1,FALSE,27/08/2022,FALSE,0,0,0,0,19,18-24,California,37645,Under 50k,Bachelors 
+2BE9-93DB,Walden Hartigan,Male,Some Travel,Sales,5,CA,White,1,Marketing ,Sales Executive,Single,0,FALSE,9/08/2021,FALSE,1,0,1,1,19,18-24,California,53387,Unknown,No Formal Qualifications
+DD00-92BB,Clementia Beswick,Non-Binary,Some Travel,Sales,22,CA,White,4,Marketing ,Sales Executive,Single,0,FALSE,9/10/2021,FALSE,1,0,0,1,19,18-24,California,46813,Under 50k,Masters 
+0F2B-3457,Steven Bucktrout,Male,Frequent Traveller,Sales,14,NY,White,2,Marketing ,Sales Executive,Single,1,TRUE,10/01/2021,FALSE,1,0,0,1,19,18-24,New York,74458,Unknown,High School 
+D051-2C2D,Welby Chansonnau,Non-Binary,Some Travel,Sales,43,CA,White,5,Marketing,Sales Executive,Married,1,FALSE,25/07/2022,FALSE,0,0,0,0,20,18-24,California,39145,Under 50k,Doctorate
+CFE3-312D,Jess Hoyte,Male,Frequent Traveller,Sales,36,IL,White,4,Other,Sales Executive,Single,0,TRUE,8/11/2020,TRUE,1,1,1,0,21,18-24,Illinois,46452,Under 50k,Masters 
+EBF4-5928,Rudolph MacDearmont,Male,Some Travel,Sales,4,CA,Black or African American,4,Marketing,Sales Executive,Single,0,FALSE,30/12/2022,FALSE,0,0,0,0,21,18-24,California,63375,Unknown,Masters 
+7A23-F185,Ephraim Biaggetti,Male,No Travel ,Sales,22,CA,White,3,Marketing ,Sales Executive,Divorced,1,TRUE,14/03/2022,FALSE,0,0,0,0,21,18-24,California,62828,Unknown,Bachelors 
+1CB3-F7D7,Janot Cicchillo,Female,No Travel ,Sales,6,CA,Black or African American,4,Other,Sales Executive,Married,0,FALSE,3/11/2022,TRUE,0,0,0,0,21,18-24,California,43259,Under 50k,Masters 
+BBEF-AC35,Ros Dines,Female,Some Travel,Sales,10,NY,White,3,Economics,Sales Executive,Divorced,1,FALSE,27/09/2021,FALSE,1,1,1,1,21,18-24,New York,60769,Unknown,Bachelors 
+E676-215C,Fiorenze Arcase,Female,No Travel ,Sales,21,CA,White,3,Marketing ,Sales Executive,Married,1,FALSE,14/01/2019,FALSE,3,1,3,0,21,18-24,California,69402,Unknown,Bachelors 
+E164-4C29,Venita Rottery,Female,No Travel ,Sales,15,CA,White,4,Marketing ,Sales Executive,Married,1,FALSE,30/09/2021,FALSE,1,1,1,0,21,18-24,California,76482,Unknown,Masters 
+8DB6-5FC6,Madalena Leneham,Female,No Travel ,Sales,25,CA,White,3,Marketing,Sales Executive,Married,1,FALSE,8/09/2019,FALSE,3,3,3,3,21,18-24,California,69078,Unknown,Bachelors 
+06B9-B79D,Roseanne Thrustle,Female,Some Travel,Sales,36,CA,White,3,Marketing,Sales Executive,Married,2,FALSE,12/12/2020,TRUE,1,0,0,0,21,18-24,California,76057,Unknown,Bachelors 
+8CF5-DC74,Karoline Obray,Female,Some Travel,Sales,41,CA,White,2,Economics,Sales Executive,Divorced,2,FALSE,13/11/2021,FALSE,1,0,0,0,21,18-24,California,38066,Under 50k,High School 
+E2A0-930A,Federica Killiner,Female,Some Travel,Sales,18,IL,White,4,Economics,Sales Executive,Single,0,FALSE,19/11/2020,FALSE,2,2,2,1,21,18-24,Illinois,49374,Under 50k,Masters 
+86F7-CA91,Katlin Callar,Female,Some Travel,Sales,36,CA,White,4,Marketing ,Sales Executive,Divorced,3,FALSE,11/09/2021,FALSE,1,1,1,1,21,18-24,California,37035,Under 50k,Masters 
+4FA9-D343,Consolata Risom,Female,Frequent Traveller,Sales,33,NY,White,3,Marketing ,Sales Executive,Divorced,1,FALSE,18/05/2021,FALSE,1,0,1,1,21,18-24,New York,60810,Unknown,Bachelors 
+974D-9F8F,Tove Arnao,Female,Frequent Traveller,Sales,40,CA,White,3,Marketing,Sales Executive,Single,0,FALSE,18/04/2021,FALSE,1,1,1,1,21,18-24,California,59519,Unknown,Bachelors 
+03D5-622D,Aurora Whate,Female,No Travel ,Sales,43,CA,White,1,Marketing,Sales Executive,Married,1,TRUE,31/12/2021,FALSE,1,0,1,1,21,18-24,California,54355,Unknown,No Formal Qualifications
+F852-C94D,Arni Maciunas,Male,Some Travel,Sales,43,NY,White,3,Marketing ,Sales Executive,Single,0,FALSE,1/10/2021,FALSE,1,1,1,0,21,18-24,New York,47553,Under 50k,Bachelors 
+4D07-1452,Duke Whittenbury,Male,Frequent Traveller,Sales,42,NY,White,2,Marketing ,Sales Executive,Single,0,FALSE,23/03/2020,FALSE,2,0,0,0,21,18-24,New York,46750,Under 50k,High School 
+DF94-FD29,Shaughn Wehden,Male,Frequent Traveller,Sales,4,NY,White,4,Marketing,Sales Executive,Single,0,FALSE,24/12/2020,TRUE,1,0,0,0,22,18-24,New York,75816,Unknown,Masters 
+2796-828F,Bar Dunphy,Male,No Travel ,Sales,17,CA,Mixed or multiple ethnic groups,3,Marketing ,Sales Executive,Married,1,FALSE,2/02/2019,FALSE,3,1,1,1,22,18-24,California,58270,Unknown,Bachelors 
+E6F7-EF68,Joaquin Bockmann,Male,Some Travel,Sales,32,NY,Mixed or multiple ethnic groups,3,Marketing ,Sales Executive,Married,1,FALSE,14/06/2018,FALSE,4,4,4,0,22,18-24,New York,52318,Unknown,Bachelors 
+B0C2-0E3D,Cindy Mordanti,Female,Some Travel,Sales,22,CA,White,1,Other,Sales Executive,Married,0,TRUE,18/02/2021,FALSE,1,0,1,1,22,18-24,California,48698,Under 50k,No Formal Qualifications
+84D8-1A04,Adara Sleeford,Female,Some Travel,Sales,16,NY,White,3,Marketing,Sales Executive,Married,1,FALSE,17/10/2019,FALSE,3,0,0,3,22,18-24,New York,48432,Under 50k,Bachelors 
+AD0D-E79F,Cleve Braben,Male,Some Travel,Sales,16,CA,White,2,Marketing,Sales Executive,Married,2,TRUE,28/11/2021,TRUE,0,0,0,0,22,18-24,California,53220,Unknown,High School 
+CAA0-3971,Ives Cranston,Male,Some Travel,Sales,31,NY,White,1,Marketing ,Sales Executive,Single,0,FALSE,13/05/2022,FALSE,0,0,0,0,22,18-24,New York,51582,Unknown,No Formal Qualifications
+72A2-1105,Mollee Hartop,Female,Some Travel,Sales,36,NY,Black or African American,3,Marketing,Sales Executive,Single,0,FALSE,21/03/2018,FALSE,4,0,3,0,22,18-24,New York,60699,Unknown,Bachelors 
+86C5-8987,Cassaundra Kenyam,Female,Some Travel,Sales,5,NY,White,2,Economics,Sales Executive,Married,0,FALSE,16/05/2020,FALSE,2,0,0,0,22,18-24,New York,45220,Under 50k,High School 
+2D25-CAE8,Marcos Bowkett,Male,Some Travel,Sales,29,IL,Mixed or multiple ethnic groups,2,Economics,Sales Executive,Divorced,1,TRUE,2/07/2019,FALSE,3,3,3,2,22,18-24,Illinois,58992,Unknown,High School 
+E28D-424B,Buddie Ainger,Non-Binary,Some Travel,Sales,5,NY,White,1,Economics,Sales Executive,Single,0,FALSE,19/01/2020,TRUE,1,1,1,1,22,18-24,New York,64689,Unknown,No Formal Qualifications
+B0B9-19C6,Lorna Kuzma,Female,Some Travel,Sales,25,CA,White,3,Other,Sales Executive,Married,1,FALSE,22/05/2021,FALSE,1,1,1,1,22,18-24,California,48716,Under 50k,Bachelors 
+0A4E-1A4A,Aloysius Holdren,Male,No Travel ,Sales,14,CA,Mixed or multiple ethnic groups,3,Technical Degree,Sales Executive,Single,0,TRUE,4/02/2019,FALSE,3,3,3,0,22,18-24,California,53014,Unknown,Bachelors 
+1A9A-17A3,Fifi Stabler,Female,No Travel ,Sales,7,CA,White,4,Marketing ,Sales Executive,Married,1,FALSE,29/09/2021,FALSE,1,0,1,1,22,18-24,California,46546,Under 50k,Masters 
+F573-D043,Alice Brabon,Female,Some Travel,Sales,16,CA,White,3,Marketing ,Sales Executive,Single,0,FALSE,8/04/2021,FALSE,1,0,0,0,22,18-24,California,70202,Unknown,Bachelors 
+B98B-4689,Mordecai Tetlow,Non-Binary,Frequent Traveller,Sales,28,NY,Mixed or multiple ethnic groups,4,Marketing ,Sales Executive,Married,2,FALSE,13/01/2019,TRUE,1,0,0,0,22,18-24,New York,39845,Under 50k,Masters 
+7A1F-F1A3,Dunstan Whife,Male,Some Travel,Sales,32,CA,White,3,Economics,Sales Executive,Single,0,FALSE,30/12/2019,FALSE,3,3,3,2,23,18-24,California,84558,Unknown,Bachelors 
+4875-109B,Molly Lawdham,Female,Some Travel,Sales,40,IL,White,4,Marketing ,Sales Executive,Married,0,TRUE,3/09/2018,FALSE,4,1,1,0,23,18-24,Illinois,52039,Unknown,Masters 
+2BCE-F73C,Mort Alliston,Male,Frequent Traveller,Sales,26,CA,Asian or Asian American,4,Marketing,Sales Executive,Single,0,FALSE,1/06/2018,FALSE,4,4,4,2,23,18-24,California,68046,Unknown,Masters 
+41A7-9C19,Ginevra Edson,Female,Some Travel,Sales,8,NY,Mixed or multiple ethnic groups,4,Economics,Sales Executive,Married,1,FALSE,10/04/2018,FALSE,4,0,3,0,23,18-24,New York,78937,Unknown,Masters 
+BBD0-FB7D,Edin Savill,Female,Some Travel,Sales,19,NY,Mixed or multiple ethnic groups,4,Economics,Sales Executive,Divorced,2,FALSE,19/01/2018,FALSE,4,4,4,1,23,18-24,New York,87629,Unknown,Masters 
+00B0-F199,Trueman Jirasek,Male,Some Travel,Sales,35,CA,White,1,Marketing ,Sales Executive,Married,1,TRUE,16/03/2020,TRUE,1,0,1,0,23,18-24,California,97824,Unknown,No Formal Qualifications
+924E-1035,Scot Gamlen,Male,Some Travel,Sales,26,NY,Native Hawaiian ,2,Marketing ,Sales Executive,Single,0,TRUE,19/01/2017,FALSE,5,4,4,4,23,18-24,New York,58345,Unknown,High School 
+3E42-57C8,Quinton McAllister,Male,Some Travel,Sales,12,IL,White,3,Marketing,Sales Executive,Single,0,FALSE,1/05/2020,TRUE,1,0,0,0,23,18-24,Illinois,84985,Unknown,Bachelors 
+1E2C-A267,Gerick Archibould,Male,Some Travel,Sales,1,CA,White,2,Other,Sales Executive,Married,1,FALSE,12/07/2020,FALSE,2,0,1,1,23,18-24,California,65489,Unknown,High School 
+A42A-4000,Rusty Rishbrook,Male,No Travel ,Sales,10,NY,White,2,Marketing ,Sales Executive,Single,0,FALSE,3/12/2019,FALSE,3,3,3,2,23,18-24,New York,94417,Unknown,High School 
+6A67-EC2C,Fionnula Charsley,Female,Some Travel,Sales,21,CA,White,4,Marketing,Sales Executive,Single,0,FALSE,4/02/2017,FALSE,5,4,4,2,23,18-24,California,37626,Under 50k,Masters 
+EA37-AE5E,Freda Bartolijn,Female,Some Travel,Sales,5,IL,White,3,Marketing ,Sales Executive,Married,1,FALSE,4/04/2018,FALSE,4,0,0,2,23,18-24,Illinois,69678,Unknown,Bachelors 
+F546-D965,Candice Libreros,Female,Some Travel,Sales,34,NY,White,2,Economics,Sales Executive,Single,0,FALSE,1/11/2019,FALSE,3,1,3,1,23,18-24,New York,88382,Unknown,High School 
+7EEF-9A90,Sheryl Bridell,Female,Some Travel,Sales,18,NY,Other ,4,Technical Degree,Sales Executive,Married,1,TRUE,10/07/2017,FALSE,5,0,5,3,23,18-24,New York,83677,Unknown,Masters 
+449E-0EB7,Dniren Muddiman,Female,Frequent Traveller,Sales,26,NY,White,1,Marketing,Sales Executive,Married,1,FALSE,15/11/2019,FALSE,3,1,2,2,23,18-24,New York,44646,Under 50k,No Formal Qualifications
+0317-B7BC,Ronni Beechcraft,Female,Some Travel,Sales,7,IL,White,4,Marketing,Sales Executive,Married,0,TRUE,3/03/2020,FALSE,2,0,2,0,23,18-24,Illinois,72622,Unknown,Masters 
+55DC-C0F0,Marysa Stannislawski,Female,Some Travel,Sales,26,NY,White,3,Economics,Sales Executive,Single,0,FALSE,7/08/2020,FALSE,2,1,2,1,23,18-24,New York,67718,Unknown,Bachelors 
+3044-EB49,Rolando Pioch,Male,Some Travel,Sales,44,NY,White,2,Economics,Sales Executive,Married,3,TRUE,25/09/2019,FALSE,3,2,3,3,23,18-24,New York,100314,Unknown,High School 
+7A5A-CC91,Anabal Parkhouse,Female,Some Travel,Sales,12,NY,Black or African American,4,Marketing,Sales Executive,Single,0,FALSE,17/10/2018,FALSE,4,0,1,0,23,18-24,New York,45024,Under 50k,Masters 
+F126-8059,Wally Dowse,Male,Some Travel,Sales,23,NY,White,4,Marketing,Sales Executive,Divorced,2,FALSE,13/10/2020,FALSE,2,0,2,0,23,18-24,New York,53590,Unknown,Masters 
+CABE-0B62,Laura Janiak,Female,Some Travel,Sales,43,CA,Black or African American,5,Marketing ,Sales Executive,Single,0,FALSE,21/12/2022,FALSE,0,0,0,0,23,18-24,California,121414,Unknown,Doctorate
+2B5B-7A52,Matti Liversley,Female,Some Travel,Sales,35,CA,White,3,Economics,Sales Executive,Divorced,1,TRUE,12/12/2019,FALSE,3,3,3,2,23,18-24,California,45518,Under 50k,Bachelors 
+B77D-2FBD,Diannne Real,Female,Some Travel,Sales,11,CA,White,3,Technical Degree,Sales Executive,Single,0,FALSE,19/04/2022,FALSE,0,0,0,0,24,18-24,California,58923,Unknown,Bachelors 
+ECC7-B638,Patrice Boorman,Male,Frequent Traveller,Sales,44,NY,Black or African American,3,Marketing,Sales Executive,Married,1,FALSE,20/07/2018,FALSE,4,0,1,0,24,18-24,New York,41741,Under 50k,Bachelors 
+3F0C-41A7,Mendie Readie,Male,Some Travel,Sales,27,CA,Mixed or multiple ethnic groups,4,Marketing ,Sales Executive,Single,0,FALSE,27/01/2016,FALSE,6,2,3,0,24,18-24,California,79828,Unknown,Masters 
+3A96-07A5,Teena Nassey,Female,No Travel ,Sales,14,CA,Black or African American,3,Marketing ,Sales Executive,Divorced,1,TRUE,18/04/2019,FALSE,3,1,3,3,24,18-24,California,52975,Unknown,Bachelors 
+EFB8-ED99,Jilli Allsupp,Female,Some Travel,Sales,16,CA,White,2,Marketing ,Sales Executive,Single,0,TRUE,29/01/2017,FALSE,5,0,5,5,24,18-24,California,43158,Under 50k,High School 
+B670-21B2,Ellery Hartopp,Male,Frequent Traveller,Sales,3,CA,White,4,Marketing,Sales Executive,Single,0,TRUE,1/01/2019,FALSE,3,2,2,0,24,18-24,California,70546,Unknown,Masters 
+0AF4-EC15,Gwenore Bernucci,Female,Some Travel,Sales,33,CA,Native Hawaiian ,3,Marketing ,Sales Executive,Single,0,FALSE,23/07/2018,FALSE,4,0,4,4,24,18-24,California,91915,Unknown,Bachelors 
+2937-EB65,Jarred Stoddard,Male,Some Travel,Sales,16,CA,Mixed or multiple ethnic groups,3,Marketing,Sales Executive,Single,0,FALSE,20/08/2018,FALSE,4,1,4,1,24,18-24,California,116132,Unknown,Bachelors 
+6B20-FFDF,Cloris Orgee,Female,No Travel ,Sales,39,CA,Mixed or multiple ethnic groups,2,Marketing,Sales Executive,Married,1,TRUE,9/07/2016,FALSE,6,5,6,3,24,18-24,California,151986,150k-300k,High School 
+D4BE-786C,Hurleigh Pashenkov,Male,No Travel ,Sales,3,NY,White,3,Economics,Sales Executive,Single,0,FALSE,11/06/2018,FALSE,4,4,4,4,24,18-24,New York,128634,Unknown,Bachelors 
+DAE0-B44F,Karlotta Hackwell,Female,Some Travel,Sales,4,CA,Mixed or multiple ethnic groups,3,Economics,Sales Executive,Married,1,FALSE,23/06/2016,FALSE,6,2,3,1,24,18-24,California,133274,Unknown,Bachelors 
+AF5D-A8C8,Jedidiah Orrick,Male,Some Travel,Sales,27,CA,White,4,Marketing ,Sales Executive,Married,0,TRUE,4/05/2021,TRUE,0,0,0,0,24,18-24,California,86102,Unknown,Masters 
+D471-4BFF,Dew Jinkinson,Male,Frequent Traveller,Sales,9,NY,Black or African American,3,Marketing ,Sales Executive,Single,0,FALSE,4/02/2019,FALSE,3,3,3,1,24,18-24,New York,45410,Under 50k,Bachelors 
+5B11-3DB3,Melicent Papworth,Female,Some Travel,Sales,43,CA,Asian or Asian American,4,Economics,Sales Executive,Married,0,FALSE,11/10/2018,TRUE,0,0,0,0,24,18-24,California,144335,Unknown,Masters 
+9385-321B,Marcille Tweedy,Female,Some Travel,Sales,34,CA,White,1,Economics,Sales Executive,Single,0,FALSE,15/09/2019,FALSE,3,2,2,2,24,18-24,California,107634,Unknown,No Formal Qualifications
+9E8E-F2FF,Dix Presley,Female,No Travel ,Sales,10,CA,Mixed or multiple ethnic groups,4,Marketing,Sales Executive,Married,0,FALSE,15/06/2019,FALSE,3,1,2,0,24,18-24,California,65432,Unknown,Masters 
+12A7-AFD6,Garrek Riditch,Non-Binary,Some Travel,Sales,22,CA,Mixed or multiple ethnic groups,3,Marketing,Sales Executive,Married,0,TRUE,19/09/2018,FALSE,4,3,3,1,24,18-24,California,53530,Unknown,Bachelors 
+4FAC-96CB,Dwayne Sturror,Male,Some Travel,Sales,9,CA,White,4,Marketing,Sales Executive,Divorced,1,FALSE,23/08/2019,FALSE,3,3,3,2,24,18-24,California,110542,Unknown,Masters 
+ACB2-6640,Julee Corfield,Female,Some Travel,Sales,16,CA,White,4,Marketing ,Sales Executive,Divorced,1,FALSE,29/06/2018,FALSE,4,0,0,0,24,18-24,California,75250,Unknown,Masters 
+8CC3-0C6A,Vin Gricewood,Female,Frequent Traveller,Sales,9,CA,American Indian or Alaska Native,1,Marketing ,Sales Executive,Married,0,FALSE,21/11/2018,FALSE,4,3,3,0,24,18-24,California,125759,Unknown,No Formal Qualifications
+6E61-A2BA,Adelaide Somner,Non-Binary,Some Travel,Sales,41,CA,Mixed or multiple ethnic groups,2,Marketing ,Sales Executive,Divorced,1,FALSE,10/06/2016,FALSE,6,4,6,2,24,18-24,California,111750,Unknown,High School 
+D93A-CC98,Arabella Mont,Female,Some Travel,Sales,27,NY,White,4,Marketing,Sales Executive,Single,0,TRUE,6/03/2018,TRUE,2,0,0,0,24,18-24,New York,208684,150k-300k,Masters 
+A0EC-C4AE,Eleanora Issacoff,Female,Some Travel,Sales,7,NY,White,3,Marketing,Sales Executive,Married,1,FALSE,14/10/2019,FALSE,3,1,3,3,24,18-24,New York,106586,Unknown,Bachelors 
+2857-A950,Chauncey Golt,Male,Some Travel,Sales,13,CA,Mixed or multiple ethnic groups,2,Economics,Sales Executive,Married,1,FALSE,5/03/2017,FALSE,5,1,5,2,24,18-24,California,64852,Unknown,High School 
+005C-E0FB,Fin O'Halleghane,Non-Binary,Frequent Traveller,Sales,17,CA,White,4,Marketing ,Sales Executive,Married,1,FALSE,26/08/2017,FALSE,5,2,2,0,24,18-24,California,56155,Unknown,Masters 
+5609-8585,Matthieu Oulet,Male,No Travel ,Sales,2,CA,American Indian or Alaska Native,4,Marketing ,Sales Executive,Single,0,FALSE,15/10/2017,FALSE,5,4,4,5,24,18-24,California,64277,Unknown,Masters 
+8A5B-3D6E,Konstanze Scrammage,Female,Some Travel,Sales,25,NY,Mixed or multiple ethnic groups,1,Marketing,Sales Executive,Divorced,2,TRUE,14/01/2016,FALSE,6,6,6,5,24,18-24,New York,105383,Unknown,No Formal Qualifications
+1799-5B3F,Howey Woolis,Male,Some Travel,Sales,21,CA,Black or African American,4,Marketing,Sales Executive,Married,3,FALSE,18/03/2019,TRUE,0,0,0,0,24,18-24,California,85118,Unknown,Masters 
+32AE-C02F,Hilly Giocannoni,Male,No Travel ,Sales,8,CA,White,3,Marketing,Sales Executive,Single,0,TRUE,19/06/2016,TRUE,5,1,4,1,24,18-24,California,82405,Unknown,Bachelors 
+D712-9E1C,Audi Pibworth,Non-Binary,Some Travel,Sales,8,IL,Black or African American,2,Economics,Sales Executive,Single,0,FALSE,24/12/2017,FALSE,5,0,4,1,24,18-24,Illinois,85238,Unknown,High School 
+5EB3-47F6,Cthrine Harg,Female,Some Travel,Sales,41,NY,White,1,Economics,Sales Executive,Married,0,TRUE,28/10/2019,FALSE,3,2,2,0,24,18-24,New York,73498,Unknown,No Formal Qualifications
+8AAD-FAFB,Alethea Heeney,Female,Some Travel,Sales,3,CA,Asian or Asian American,3,Marketing,Sales Executive,Divorced,1,TRUE,15/08/2016,TRUE,4,3,3,4,24,18-24,California,130774,Unknown,Bachelors 
+4C72-E72F,Sharlene MacGuffog,Female,Some Travel,Sales,43,CA,White,2,Economics,Sales Executive,Divorced,3,TRUE,31/05/2018,FALSE,4,3,4,0,24,18-24,California,54841,Unknown,High School 
+E399-E4F6,Edan Fechnie,Male,Some Travel,Sales,31,CA,American Indian or Alaska Native,4,Marketing,Sales Executive,Married,2,FALSE,12/09/2017,FALSE,5,2,5,2,24,18-24,California,105502,Unknown,Masters 
+D457-AB87,Geoffrey Bambery,Male,Some Travel,Sales,29,CA,Mixed or multiple ethnic groups,3,Marketing,Sales Executive,Married,2,FALSE,13/02/2017,FALSE,5,5,5,3,24,18-24,California,105859,Unknown,Bachelors 
+CD7F-377F,Kendricks Tribe,Male,Frequent Traveller,Sales,25,CA,Black or African American,3,Marketing ,Sales Executive,Married,1,FALSE,24/08/2016,FALSE,6,5,6,1,25,25-31,California,46283,Under 50k,Bachelors 
+4563-8637,Vernor Farrell,Male,Some Travel,Sales,44,CA,Mixed or multiple ethnic groups,2,Marketing,Sales Executive,Married,2,FALSE,7/06/2017,FALSE,5,2,2,5,25,25-31,California,75635,Unknown,High School 
+6D3B-AD28,Zsa zsa Valentin,Female,Frequent Traveller,Sales,33,CA,White,3,Marketing,Sales Executive,Single,0,FALSE,18/01/2017,FALSE,5,0,0,3,25,25-31,California,94810,Unknown,Bachelors 
+AA6C-B0D6,Benedick Lovekin,Male,Some Travel,Sales,15,NY,White,1,Marketing,Sales Executive,Married,1,FALSE,7/04/2022,FALSE,0,0,0,0,25,25-31,New York,118961,Unknown,No Formal Qualifications
+C1E8-5AAB,Pierce Abadam,Male,Some Travel,Sales,5,NY,Black or African American,2,Marketing,Sales Executive,Divorced,2,FALSE,13/02/2016,FALSE,6,0,4,4,25,25-31,New York,69539,Unknown,High School 
+1DC4-97CF,Karee Cristofvao,Female,Some Travel,Sales,28,CA,White,4,Marketing,Sales Executive,Single,0,FALSE,24/04/2018,FALSE,4,3,4,1,25,25-31,California,167051,150k-300k,Masters 
+0FE8-B881,Rockie Iseton,Male,Some Travel,Sales,12,IL,Asian or Asian American,3,Marketing ,Sales Executive,Divorced,2,FALSE,14/09/2018,FALSE,4,4,4,3,25,25-31,Illinois,118048,Unknown,Bachelors 
+F5CC-33FA,Ilario Stearne,Male,Some Travel,Sales,30,CA,White,4,Marketing,Sales Executive,Married,1,FALSE,2/04/2016,FALSE,6,4,5,2,25,25-31,California,106738,Unknown,Masters 
+8E5B-CBBF,Creigh Lissaman,Male,Some Travel,Sales,12,NY,Asian or Asian American,4,Marketing,Sales Executive,Divorced,0,FALSE,28/03/2015,FALSE,7,6,7,1,25,25-31,New York,67814,Unknown,Masters 
+7823-0217,Germaine Clubley,Non-Binary,Frequent Traveller,Sales,43,CA,White,4,Marketing,Sales Executive,Married,0,TRUE,2/11/2018,TRUE,0,0,0,0,25,25-31,California,81889,Unknown,Masters 
+425F-4D2D,Kimberlyn Preston,Female,Some Travel,Sales,30,CA,Mixed or multiple ethnic groups,4,Marketing,Sales Executive,Divorced,2,TRUE,10/05/2018,FALSE,4,3,4,1,25,25-31,California,57742,Unknown,Masters 
+6F50-08B6,Mick Tomaschke,Male,Frequent Traveller,Sales,25,NY,White,1,Marketing ,Sales Executive,Single,0,FALSE,20/03/2015,FALSE,7,5,7,6,25,25-31,New York,57030,Unknown,No Formal Qualifications
+9BE8-2C44,Bail Elsworth,Male,Frequent Traveller,Sales,42,IL,Black or African American,3,Marketing ,Sales Executive,Married,2,FALSE,12/01/2018,FALSE,4,3,3,3,25,25-31,Illinois,72758,Unknown,Bachelors 
+D954-6402,Ara Daulton,Male,Some Travel,Sales,14,IL,White,3,Marketing ,Sales Executive,Single,0,TRUE,23/12/2015,TRUE,7,2,3,1,25,25-31,Illinois,123307,Unknown,Bachelors 
+8182-6AE6,Wandis Needs,Female,Some Travel,Sales,32,NY,White,2,Marketing ,Sales Executive,Married,1,TRUE,3/02/2020,FALSE,2,2,2,2,25,25-31,New York,82357,Unknown,High School 
+155B-42BE,Tommi Lapish,Female,Some Travel,Sales,38,IL,Mixed or multiple ethnic groups,2,Marketing ,Sales Executive,Single,0,FALSE,21/02/2015,TRUE,1,0,0,0,25,25-31,Illinois,57018,Unknown,High School 
+CDC1-C7CA,Jobyna Keeler,Female,Frequent Traveller,Sales,6,CA,Mixed or multiple ethnic groups,3,Marketing,Sales Executive,Married,0,FALSE,12/09/2015,FALSE,7,1,2,5,25,25-31,California,102569,Unknown,Bachelors 
+07AF-3631,Ignazio Bendixen,Male,No Travel ,Sales,35,NY,White,4,Marketing ,Sales Executive,Divorced,1,TRUE,3/02/2016,FALSE,6,2,4,3,25,25-31,New York,149519,Unknown,Masters 
+3653-D544,Adria Smurfit,Female,Frequent Traveller,Sales,21,IL,Black or African American,2,Technical Degree,Sales Executive,Married,1,FALSE,3/01/2018,FALSE,4,3,3,3,25,25-31,Illinois,91332,Unknown,High School 
+6BE1-09FB,Dino Bragge,Male,Some Travel,Sales,29,CA,White,4,Marketing,Sales Executive,Married,1,FALSE,14/05/2018,FALSE,4,0,3,1,25,25-31,California,95643,Unknown,Masters 
+648E-FE5F,Tabb McInnes,Male,Some Travel,Sales,11,CA,Black or African American,3,Marketing ,Sales Executive,Single,0,FALSE,11/07/2018,FALSE,4,0,1,0,25,25-31,California,58914,Unknown,Bachelors 
+BDC5-51CF,Wanids Mace,Female,Frequent Traveller,Sales,3,IL,Mixed or multiple ethnic groups,4,Other,Sales Executive,Single,0,TRUE,26/11/2018,TRUE,0,0,0,0,25,25-31,Illinois,56163,Unknown,Masters 
+A1B4-5481,Zacharie Manuaud,Male,Some Travel,Sales,37,CA,Asian or Asian American,3,Economics,Sales Executive,Married,0,FALSE,22/07/2016,TRUE,1,1,1,1,25,25-31,California,79329,Unknown,Bachelors 
+4F28-CFAF,Juditha Burdell,Female,Some Travel,Sales,11,IL,Black or African American,3,Marketing,Sales Executive,Single,0,TRUE,13/09/2018,TRUE,3,2,3,1,25,25-31,Illinois,53930,Unknown,Bachelors 
+63D2-F412,Bab Antonelli,Female,Some Travel,Sales,3,CA,White,1,Marketing,Sales Executive,Married,3,TRUE,26/09/2017,FALSE,5,4,4,3,25,25-31,California,58631,Unknown,No Formal Qualifications
+0678-748A,Maurits Farmery,Male,Some Travel,Sales,4,CA,Native Hawaiian ,2,Economics,Sales Executive,Divorced,2,TRUE,11/05/2015,TRUE,6,5,6,2,25,25-31,California,57698,Unknown,High School 
+B34E-95FF,Samuele Creek,Male,Some Travel,Sales,33,NY,White,5,Marketing,Sales Executive,Divorced,3,TRUE,9/11/2019,TRUE,2,1,1,0,25,25-31,New York,87347,Unknown,Doctorate
+3D9E-FB05,Raynor Deane,Male,Some Travel,Sales,2,CA,Black or African American,4,Economics,Sales Executive,Married,1,FALSE,8/11/2016,FALSE,6,5,6,4,25,25-31,California,75555,Unknown,Masters 
+3992-22AD,Kristal le Keux,Female,Some Travel,Sales,4,CA,Other ,3,Marketing,Sales Executive,Single,0,FALSE,19/08/2017,FALSE,5,2,4,3,25,25-31,California,48917,Under 50k,Bachelors 
+AC19-7EE7,Aube Bassill,Male,Some Travel,Sales,38,NY,Mixed or multiple ethnic groups,3,Marketing ,Sales Executive,Divorced,1,TRUE,7/09/2015,FALSE,7,6,6,0,25,25-31,New York,86485,Unknown,Bachelors 
+ACF7-5B99,Janeczka Osmond,Female,Some Travel,Sales,17,CA,Asian or Asian American,4,Marketing ,Sales Executive,Single,0,TRUE,16/05/2015,FALSE,7,3,6,4,26,25-31,California,97811,Unknown,Masters 
+5395-75A1,Ludwig Ferrara,Male,Some Travel,Sales,41,NY,Asian or Asian American,4,Marketing ,Sales Executive,Single,0,FALSE,11/04/2016,FALSE,6,4,6,3,26,25-31,New York,61238,Unknown,Masters 
+5A0B-7F31,Nevil Callaby,Male,Some Travel,Sales,24,CA,White,3,Marketing,Sales Executive,Single,0,FALSE,13/03/2015,TRUE,5,1,1,0,26,25-31,California,85982,Unknown,Bachelors 
+EEA0-C109,Silvan Bratcher,Male,Some Travel,Sales,3,NY,White,1,Marketing ,Sales Executive,Married,0,FALSE,29/09/2015,FALSE,7,1,3,3,26,25-31,New York,56892,Unknown,No Formal Qualifications
+28EA-A010,Meara Mahony,Female,Some Travel,Sales,2,CA,Asian or Asian American,2,Marketing,Sales Executive,Single,0,TRUE,15/08/2016,TRUE,3,1,1,2,26,25-31,California,149390,Unknown,High School 
+6A8B-EC82,Averill Dwyr,Male,Some Travel,Sales,24,CA,American Indian or Alaska Native,1,Marketing ,Sales Executive,Single,0,TRUE,11/04/2015,FALSE,7,2,7,6,26,25-31,California,82312,Unknown,No Formal Qualifications
