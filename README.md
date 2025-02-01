@@ -13,7 +13,7 @@ To achieve this, we will:
 ### Looker Studio Report
 [![Looker Studio](https://img.shields.io/badge/Looker_Studio-View_Report-blue?logo=google&logoColor=white&style=for-the-badge)](https://lookerstudio.google.com/u/0/reporting/83b3e93a-a7af-47b9-a859-00fff5e40087/page/p_41evyfxbpd/edit?hl=en)
 
-### BigQuery Tables
+### BigQuery Tables (Need BigQuery API active)
 [![BigQuery Table 1](https://img.shields.io/badge/BigQuery-Table_1-orange?logo=google-cloud&logoColor=white&style=for-the-badge)](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sworld-bank-group-analysis!2snorthamerica-northeast1!3seded2017-9b5a-47c8-ba12-f64ece416838!2e1)
 [![BigQuery Table 2](https://img.shields.io/badge/BigQuery-Table_2-orange?logo=google-cloud&logoColor=white&style=for-the-badge)](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sworld-bank-group-analysis!2snorthamerica-northeast1!3s266b6409-742a-43fb-8b55-b2b81e1c9e2a!2e1)
 
